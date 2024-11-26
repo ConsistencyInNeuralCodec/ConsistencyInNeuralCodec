@@ -1,0 +1,9 @@
+sampling_rate: 16_000
+formant_shift: 1.4
+# pitch_shift: 2.0
+pitch_shift: 1.0
+pitch_range: 1.5
+pitch_steps: 0.01
+pitch_floor: 75
+pitch_ceil: 600
+duration_factor: 1.0

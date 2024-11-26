@@ -1,0 +1,194 @@
+# This configuration is inspired by Encodec paper
+
+# input configs
+input_size: 1
+use_preprocessor: true      # use preprocessor to clip speech to target length
+speech_max_length: 40800    # in seconds
+valid_max_length: 40800        # in seconds
+sampling_rate: 16000
+clip_audio_from_left_side: true
+
+# encoder
+encoder: encodec_seanet_encoder_2d
+encoder_conf:
+    ratios: [[4,2],[4,1],[4,2],[4,1]]
+    norm: time_group_norm
+    causal: false
+
+# quantizer
+quantizer: costume_quantizer_raw
+quantizer_conf:
+    # codebook_size: 1024
+    codebook_size: 8192
+    # num_quantizers: 32
+    num_quantizers: 2
+    ema_decay: 0.99
+    kmeans_init: true
+    sampling_rate: 16000
+    encoder_hop_length: 640
+    quantize_dropout: true
+    # rand_num_quant: [2, 4, 8, 16, 32]
+    rand_num_quant: [1, 2]
+    use_ddp: true
+
+# decoder
+decoder: encodec_seanet_decoder
+decoder_conf:
+    ratios: [8, 5, 4, 2, 2]
+    norm: time_group_norm
+    causal: false
+    residual_kernel_size: 3
+    dilation_base: 3
+    n_residual_layers: 3
+
+# discriminator
+discriminator: multiple_disc
+discriminator_conf:
+    input_size: 1
+    disc_conf_list:
+        - name: encodec_multi_scale_stft_discriminator
+          filters: 32
+
+# model
+model: freq_codec
+model_conf:
+    odim: 128
+    multi_spectral_window_powers_of_two: [5, 6, 7, 8, 9, 10]
+    target_sample_hz: 16000
+    audio_normalize: true
+    segment_dur: null
+    overlap_ratio: null
+    use_power_spec_loss: true
+    codec_domain: ['mag', 'time']
+    feat_match_loss_weight: 5.555
+    phase_invariant_training: false
+    pit_feat_loss_weight: 1
+    pit_disc_loss_weight: 10
+    feat_match_layer_start: 2
+
+    timbre_strategy:
+        timbre_encoder_config:
+            encoder_type: fast_speech_transformer.FastSpeechDecoder
+            input_type: mel
+            model_dir: null
+            sampling_rate: 16000
+            embed_dim: 128 # k, v of cross_attn
+            hidden_size: 80 # timbre encoder
+            repeat_embed: false
+            merge_embed: cross_attention
+            dropout: 0.1
+            num_layers: 4 # timbre encoder
+            kernel_size: 9 # timbre encoder
+            num_heads: 4 # timbre encoder
+        qformer_config:
+            d_model: 128
+            embed_dim: 128
+            kdim: 80
+            vdim: 80
+            nhead: 2
+            dim_feedforward: 512
+            dropout: 0.1
+            activation: gelu
+            layer_norm_eps: 1.0e-05
+            batch_first: true
+            norm_first: false
+            self_attention_first: false
+            ffn_after_cross_attention: true
+            num_queries: 32
+            num_query_layers: 1
+            num_multimodal_layers: 0
+            norm: true
+        contrastive_encoder_config:
+            encoder_type: SICF
+            positive_type: encoder_output
+            negative_type: encoder_output
+            predicted_type: encoder_output
+            loss_type: cosine_similarity
+            # loss_type: contrastive_loss
+            # loss_weight: 1.0
+            loss_weight: 0.1
+            temperature: 0.1
+            # sample_positive_strategy: neighbor
+            sample_positive_strategy: neighbor_all
+            sample_positive_quantity: all
+            sample_negative_strategy: random
+            sample_negative_quantity: all
+            # cat_negative_features: true
+            cat_negative_features: false
+            apply_attention_mask_for_negative_indices: true
+            # positive_project: true
+            # positive_in_dim: 128
+            # positive_out_dim: 128
+            # negative_project: true
+            # negative_in_dim: 128
+            # negative_out_dim: 128
+            # predicted_project: true
+            # predicted_in_dim: 128
+            # predicted_out_dim: 128
+        # phoneme_decoder_config:
+        #     decoder_type: linear
+        #     loss_weight: 1.0
+        #     # for phoneme linear
+        #     linear_dim_list: [128, 100, 80]
+        #     dropout: 0.1
+        #     phoneme_embedding_dim: 128
+        #     num_phoneme: 80
+    # retrain_model_config:
+    #     all_modules: []
+    #     freeze_modules: ["decoder"]
+    #     retrain_modules: []
+
+
+# optimizer for generator
+optim: adam            # optimizer type
+optim_conf:             # keyword arguments for selected optimizer
+    lr: 0.0003          # learning rate, the dot is necessary to make yaml load it as float not string
+    betas: [0.5, 0.9]
+scheduler: null       # scheduler type
+scheduler_conf:         # keyword arguments for selected scheduler
+    step_size: 8        # every 80k steps . Here, step_size actually means epoch rather than batch iteration
+    gamma: 0.1
+
+# optimizer for discriminator
+optim2: adam             # optimizer type
+optim2_conf:              # keyword arguments for selected optimizer
+    lr: 0.0003              # learning rate
+    betas: [0.5, 0.9]
+scheduler2: null       # scheduler type
+scheduler2_conf:         # keyword arguments for selected scheduler
+    step_size: 8        # every 80k steps. Here, step_size actually means epoch rather than batch iteration
+    gamma: 0.1
+
+# training settings
+# num_iters_per_epoch: 10000 # number of iterations per epoch
+# num_iters_per_epoch: 2000
+num_iters_per_epoch: 1000
+# max_epoch: 20            # number of epochs
+max_epoch: 40
+accum_grad: 1             # gradient accumulation
+# batch_size: 32            # batch size (feats_type=raw)
+batch_size: 56
+drop_last: true           # drop last batch
+batch_type: unsorted      # how to make batch
+grad_clip: -1             # gradient clipping norm
+disc_grad_clip: -1        # gradient clipping norm
+grad_noise: false         # whether to use gradient noise injection
+sort_in_batch: descending # how to sort data in making batch
+sort_batch: descending    # how to sort created batches
+# num_workers: 8           # number of workers of data loader
+num_workers: 16
+use_amp: false            # whether to use pytorch amp
+log_interval: 50          # log interval in iterations
+keep_nbest_models: 60   # number of models to keep
+num_att_plot: 0           # number of attention figures to be saved in every check
+seed: 0                   # random seed number
+patience: null            # patience for early stopping
+unused_parameters: true   # needed for multi gpu case
+best_model_criterion:     # criterion to save the best models
+-   - valid
+    - generator_multi_spectral_recon_loss
+    - min
+cudnn_deterministic: false # setting to false accelerates the training speed but makes it non-deterministic
+                           # in the case of GAN-TTS training, we strongly recommend setting to false
+cudnn_benchmark: false     # setting to true might acdelerate the training speed but sometimes decrease it
+                           # therefore, we set to false as a default (recommend trying both cases)

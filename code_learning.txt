@@ -1,0 +1,164 @@
+ ************ Codec 代码 **********
+
+====== 数据 =======
+bash egs/LibriTTS/scripts/submit_libritt_data.sh
+
+====== 代码 =======
+主要的代码流程在  /home/admin_data/renjun.admin/projects/FunCodec-Dev/funcodec/tasks/abs_task.py main_worker() 函数
+
+- 首先抽象类 /home/admin_data/renjun.admin/projects/FunCodec-Dev/funcodec/tasks/gan_speech_codec.py GANSpeechCodecTask,
+ 这个类定义的 abs_task的 buildmodel, build optimizer等函数
+ 1 定义 model : build_model (funcodec/models/codec_basic.py Encodec 类)
+ 2 定义optimizer : build_optimizers
+ 3 定义schedular : 两个None?
+ 4 load pretrain ckpts (如果有的话)
+ 5 定义数据集: build_iter_factory 【abs.py】
+ - build_iter_options 【abs.py】
+  - build_preprocess_fn 【gan_speech_codec.py】
+   - max_length = args.speech_max_length 40960 语音会进行阶段
+   - CodecPreprocessor 类负责数据预处理 【funcodec/datasets/preprocessor/CodecPreprocessor】
+    - -text_process 什么也没做
+    - _speech_process 就做了一个音频截断或者填充
+  - collate_fn = cls.build_collate_fn(args, train=True)
+
+  ** 这里数据集的GetItem 主要是 ESPnetDataset  __getitem__ 实现的, CollateFn 就是 CommonCollateFn
+  完了最后返回一个这个class,把以上这些函数包起来
+  class IteratorOptions:
+    preprocess_fn: callable
+    collate_fn: callable
+    data_path_and_name_and_type: list
+    shape_files: list
+    batch_size: int
+    batch_bins: int
+    batch_type: str
+    max_cache_size: float
+    max_cache_fd: int
+    distributed: bool
+    num_batches: Optional[int]
+    num_iters_per_epoch: Optional[int]
+    train: bool
+ - build_sequence_iter_factory 【abs.task】-> ESPnetDataset |  funcodec -> dataset -> dataset.py 定义了 sound的读取方式 (get_item)
+  - build_batch_sampler: unsorted 【根据每个wav的长度，均匀的分到每个bin里】的 batches
+  - SequenceIterFactory 又封装了一层..不用管了
+
+  cls.trainer.run(
+                model=model,
+                optimizers=optimizers,
+                schedulers=schedulers,
+                train_iter_factory=train_iter_factory,
+                valid_iter_factory=valid_iter_factory,
+                trainer_options=trainer_options,
+                distributed_option=distributed_option,
+            )
+
+- train.run: funcodec.train.trainer -> train.run
+ - trainer_options.resume
+ - cls.train_one_epoch
+  - Gan_trainer.py 下的 train_one_epoch, validate_one_epoch
+
+  - Forward discriminator
+   还是会计算得到生成的音频， 完了计算一个 multi discriminator loss.
+    discriminator是多个 (STFT + 2D Conv的网络)，最大化真实结果的logit，最小化生成结果的logit, 实际实现用的hinge loss
+  - Forward generator
+   - 1 Commit Loss 有两个: 都是让Encoder靠近Codebook表征,一个是每个Codebook都对齐一次，一个是总共对齐一次
+   - 2 Generator重建Loss两个
+    - 2.1 波形上的L1 loss
+    - 2.2 换成到频域上的multi scale loss
+   - 3 Discrimator loss: 
+    - 3.1 real speech 和 fake speech在表征上进可能靠近
+    - 3.2 尽可能fool discriminator
+   
+  
+============ freq codec ========
+
+
+
+
+
+
+
+
+   ************ TTS UniAudio 代码 **********
+   主函数入口是 funcodec.bin.tts_train.py, 调用函数在 funcodec.tasks.tts.py
+    == 函数定义 ==
+   main主函数是 abs_task.py  main 函数， main函数主要最后是到  main_worker的函数
+   - Build Model: 在 tasks.tts 文件下的 build_model函数
+    - models.tts_megabyte.py -> uniaudio
+     - 函数的定义用的是 T2CMegaByte
+      - Phoneme Embedding: 用了个AliLinguisticEmbedding (models.tts_valle.py), 在phoneme编码中，一个phoneme 4个编码，分别是 symbol, tone, syll, ws 都各自有一个embedding，这些embedding加和在一起
+      - code_global_embed: 1024 * 8 + 2 [PAD/EOS, BOS], d_model//group [global net hidden size偏小，层数偏深]
+      - code_local_embed: 1024 * 8, d_model
+      - self._code_eos_id = code_vocab_size * num_group
+      - self._code_bos_id = code_vocab_size * num_group + 1
+      - global_decoder: models.encoder.transformer_encoder TransformerAdaptiveEncoder
+      - local_decoder: 同上. 就是普通TRANSFORMER  没什么特别的
+      - global_to_local_layer = nn.Linear(d_model // num_group, d_model)
+   - Build Optimizer tasks.abs_task.py
+   - Build Scheduler: warmuplr
+   - 定义数据集 sequence
+    - tasks.abs_task -> build_iter_factory
+     - build_iter_options 
+      - preprocess None
+       - collate_fn: tasks/tts.py CommonCollateFn
+     - tasks.abs_task - > build_sequence_iter_factory
+      - ESPnetDataset -> datasets/dataset.py
+       - Kaldi ark是binary文件， 然后对应的scp文件记录了key以及在ark中的内存偏移量
+       - 传入多少个train_data_path_and_name_and_type就会作为一个loader，dataset会存储多个loader
+     - iter_options.batch_type folded -> samplers->build_batch_sampler
+      -> samplers -> folded_batch_sampler.py
+       -> 根据shape的第一个维度(时间维度) / fold_length = 150， 计算一个语音折算成多少个sample, 然后总的batch_size控制一条batch应该累加多少个样本
+  
+
+  --- Train
+   - get_item 
+    - 就是取出两个key，打包batch，没什么特别的
+   - 训练逻辑 train.trainer.py 的 train_one_epoch
+    - 模型在 models.tts_megabyte UniAudio
+     - Line 175:models.tts_megabyte
+      - row_major_flatten: 把codebook做一个偏移量， 第i个codebook += i * 1024， 这样可以用一个统一的embedding编码
+      - make_prefix_attn_mask (): text 互相attention (除了pad), codec 单调attention
+      - x 是condition 序列， y是预测序列，先处理x padding同一个长度，然后过embedding得到feature
+      - y 作为预测序列，(batch * sep * 8) 长度为T, 现在SEQ pad EOS and BOS, 然后 y[:-1] 是input, y[1是target]
+      - local信号的输入是 y[1:] 然后再pad一次，分出来input和output
+      - Forward时候, Global Decoder先把表征拿出来，然后作为condition加到 local transformer的每一个embedding上。
+      - 所以local net完全就是第一个基于第一个code预测后面code的方式 [每一帧都是]，但是condition从global net中拿来。
+    - Loss 就是sequence_cross entropy, normalize按照token 粒度normalize
+  
+  --- Infer
+  -- funcodec/bin/tts_inference.py
+   -- inference_modelscope
+    - 核心调用逻辑在 funcodec/models/tts_megabyte.py 的 inference函数
+     - self.code_global_embed 是一个8192 embedding，是
+     - global_to_local : 1 * 1024 -> 1 * 8 * 128, 然 1 * 8 * 1024 [每个code用不同的condition]
+     - localnet， 只有第一步会把对应的logits拿来算 + EOS logits
+     - 检测到第一步local net 预测的top1 是 EOS的时候，就直接终止，否则继续生成local net
+
+
+
+
+  ************ TTS VALLE 代码 **********
+
+   -- Infer:
+    -- funcodec/bin/tts_inference.py
+   -- inference_modelscope
+    - 核心调用逻辑在 funcodec/models/tts_valle.py 的 inference函数, 基本逻辑和uniaudio差不多
+      - 自回归模型，只用第一层code
+        - x_text 会和 x_prefix concat在一起， 完了 y_prefix前面会加一个 bos token
+        - make_pad_mask(就是序列本身关于pad的mask), xmask和ymask会各自有一个
+        - 这两个函数的输入部分，ymasks是还没考虑到增加pad的，增加pad的是 ys_pad
+          - self.make_prefix_attn_mask (给定xmask, ymask)， 各自计算attn mask然后concat
+          - xy_padding_mask: torch.cat([x_mask, F.pad(y_mask, (1, 0), value=False)], dim=1)
+        - infer
+        - 取出1024个logits + eos单独计算，其他的丢掉
+        - 然后先计算 top1_samples, 如果top1是eos，就停下来，否则继续生成
+       解码完成后，去掉bos，把生成的codec返回
+      - 非自回归模型
+       - 把prefix文本和真实text concat组成xs
+        - self.rvqc_predictor.inference(xs, y, ys_prefix)
+       - valle 用的是argmax生成结果
+        
+
+  
+   
+      
+    

@@ -1,0 +1,1504 @@
+1089_134686_000002_000001(nwords=18,cor=15,ins=0,del=0,sub=3) corr:83.33%,cer:16.67%
+ref:	after early nightfall, the yellow lamps would light up. here and there, the squalid quarter of the brothels.
+hyp:	after early nightfall the yellow lamps would light up here and there the squalid quarter of the brothels.
+1089_134686_000007_000005(nwords=14,cor=14,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	the stars began to crumble and a cloud of fine stardust fell through space.
+hyp:	the stars began to crumble and a cloud of fine stardust fell through space.
+1089_134686_000009_000003(nwords=15,cor=14,ins=0,del=0,sub=1) corr:93.33%,cer:6.67%
+ref:	the chaos in which his ardor extinguished itself was a cold, indifferent knowledge of himself.
+hyp:	the chaos in which his ardor extinguished itself was a cold, indifferent knowledge of himself
+1089_134686_000009_000008(nwords=17,cor=17,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	what did it avail to pray when he knew that his soul lusted after its own destruction?
+hyp:	what did it avail to pray when he knew that his soul lusted after its own destruction?
+1089_134686_000015_000003(nwords=20,cor=18,ins=0,del=0,sub=2) corr:90.00%,cer:10.00%
+ref:	the bell rang the master marked the sums and cuts to be done for the next lesson and went out
+hyp:	the bell rang. the master marked the sums and cuts to be done for the next lesson and went out.
+1089_134686_000024_000002(nwords=18,cor=17,ins=0,del=1,sub=0) corr:94.44%,cer:5.56%
+ref:	if a layman, in giving baptism, pour the water before saying the words, this is the child baptized.
+hyp:	if a layman, in giving baptism, pour the water before saying the words, is the child baptized.
+1089_134686_000026_000003(nwords=18,cor=18,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	a gentle kick from the tall boy in the bench behind urged stephen to ask a difficult question.
+hyp:	a gentle kick from the tall boy in the bench behind urged stephen to ask a difficult question.
+1089_134686_000028_000004(nwords=16,cor=15,ins=0,del=0,sub=1) corr:93.75%,cer:6.25%
+ref:	mass will be on saturday morning at 9 o'clock in general communion for the whole college.
+hyp:	mass will be on saturday morning at 9 o'clock and general communion for the whole college.
+1089_134686_000030_000000(nwords=18,cor=16,ins=0,del=0,sub=2) corr:88.89%,cer:11.11%
+ref:	the little wave of quiet mirth broke forth over the class of boys from the rector's grim smile.
+hyp:	a little wave of quiet mirth broke forth over the class of boys from the rector's grim smile
+1089_134686_000030_000001(nwords=14,cor=14,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	stephen's heart began slowly to fold and fade with fear like a withering flower.
+hyp:	stephen's heart began slowly to fold and fade with fear like a withering flower.
+1089_134686_000032_000006(nwords=14,cor=14,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	he is said to have baptized as many as 10,000 idolaters in one month.
+hyp:	he is said to have baptized as many as 10,000 idolaters in one month.
+1089_134691_000004_000000(nwords=16,cor=15,ins=0,del=0,sub=1) corr:93.75%,cer:6.25%
+ref:	yes, his mother was hostile to the idea as he had read from her listless silence.
+hyp:	yes, his mother was hostile to the idea, as he had read from her listless silence.
+1089_134691_000006_000000(nwords=13,cor=12,ins=0,del=0,sub=1) corr:92.31%,cer:7.69%
+ref:	whose feet are as the feet of hearts and underneath the everlasting arms.
+hyp:	whose feet are as the feet of hearts, and underneath the everlasting arms.
+1089_134691_000007_000000(nwords=19,cor=19,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	the pride of that dim image brought back to his mind the dignity of the office he had refused.
+hyp:	the pride of that dim image brought back to his mind the dignity of the office he had refused.
+1089_134691_000013_000004(nwords=15,cor=14,ins=1,del=0,sub=1) corr:93.33%,cer:13.33%
+ref:	no, it was not their colors. it was the poison balance of the period itself.
+hyp:	no, it was not their colors. it was the poise and balance of the period itself.
+1089_134691_000015_000000(nwords=16,cor=16,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	a veiled sunlight lit up faintly the grey sheet of water where the river was inbade.
+hyp:	a veiled sunlight lit up faintly the grey sheet of water where the river was inbade.
+1089_134691_000025_000002(nwords=16,cor=16,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	perhaps they had taken refuge in number and noise from the secret dread in their souls.
+hyp:	perhaps they had taken refuge in number and noise from the secret dread in their souls.
+1089_134691_000027_000000(nwords=14,cor=13,ins=1,del=0,sub=1) corr:92.86%,cer:14.29%
+ref:	their banter was not new to him, and now it flattered his mild-proud sovereignty.
+hyp:	their banter was not new to him, and now it flattered his mild, proud sovereignty.
+1089_134691_000039_000000(nwords=19,cor=19,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	he started up nervously from the stone block, for he could no longer quench the flame in his blood.
+hyp:	he started up nervously from the stone block, for he could no longer quench the flame in his blood.
+1089_134691_000042_000001(nwords=15,cor=13,ins=0,del=0,sub=2) corr:86.67%,cer:13.33%
+ref:	emerald in black and russet in olive, it moved beneath the current, swaying and turning.
+hyp:	emerald and black and russet and olive, it moved beneath the current, swaying and turning.
+1089_134691_000042_000002(nwords=16,cor=16,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	the water of the rivulet was dark with endless drift and mirrored the high drifting clouds.
+hyp:	the water of the rivulet was dark with endless drift and mirrored the high drifting clouds.
+1089_134691_000045_000004(nwords=14,cor=11,ins=0,del=1,sub=2) corr:78.57%,cer:21.43%
+ref:	her slate blue skirts were tilted boldly about her waist and dovetailed behind her.
+hyp:	her slate-blue skirts were kilted boldly about her waist and dovetailed behind her.
+1089_134691_000047_000000(nwords=11,cor=10,ins=0,del=0,sub=1) corr:90.91%,cer:9.09%
+ref:	heavenly god, cried stephen's soul in an outburst of profane joy.
+hyp:	heavenly god! cried stephen's soul in an outburst of profane joy.
+1089_134691_000049_000002(nwords=14,cor=14,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	to live, to err, to fall, to triumph, to recreate life out of life.
+hyp:	to live, to err, to fall, to triumph, to recreate life out of life.
+1089_134691_000054_000000(nwords=18,cor=15,ins=0,del=0,sub=3) corr:83.33%,cer:16.67%
+ref:	evening had fallen, when he woke and the sand and arid grasses of his bed glowed no longer
+hyp:	evening had fallen when he woke, and the sand and arid grasses of his bed glowed no longer.
+1188_133604_000024_000000(nwords=15,cor=15,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	but in this vignette, copied from turner, you have the two principles brought out perfectly.
+hyp:	but in this vignette, copied from turner, you have the two principles brought out perfectly.
+1188_133604_000028_000003(nwords=15,cor=15,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	george of carpaccio at venice, are all that i can name myself of great works.
+hyp:	george of carpaccio at venice, are all that i can name myself of great works.
+1188_133604_000048_000001(nwords=15,cor=15,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	every plant in the grass is set formally, grows perfectly, and may be realized completely.
+hyp:	every plant in the grass is set formally, grows perfectly, and may be realized completely.
+1188_133604_000061_000006(nwords=17,cor=17,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	it has no beauty whatsoever, no specialty of picturesqueness, and all its lines are cramped and poor.
+hyp:	it has no beauty whatsoever, no specialty of picturesqueness, and all its lines are cramped and poor.
+121_121726_000005_000001(nwords=11,cor=10,ins=0,del=0,sub=1) corr:90.91%,cer:9.09%
+ref:	the beggar's plea, the politician's scepter, and the drummer's able assistant.
+hyp:	the beggar's plea, the politician's scepter, and the drummer's ablest assistant.
+121_121726_000025_000001(nwords=14,cor=14,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	once held by hobson and dewey, now carried by mother eddie and brother dowie.
+hyp:	once held by hobson and dewey, now carried by mother eddie and brother dowie.
+121_127105_000007_000003(nwords=21,cor=21,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	this i took for a sign that he had himself something to produce, and that we should only have to wait.
+hyp:	this i took for a sign that he had himself something to produce, and that we should only have to wait.
+121_127105_000012_000000(nwords=21,cor=20,ins=0,del=0,sub=1) corr:95.24%,cer:4.76%
+ref:	he seemed to say it was not so simple as that, to be really at a loss how to qualify it.
+hyp:	he seemed to say it was not so simple as that. to be really at a loss how to qualify it.
+121_127105_000014_000000(nwords=22,cor=19,ins=0,del=0,sub=3) corr:86.36%,cer:13.64%
+ref:	he took no notice of her, he looked at me, but as if instead of me he saw what he spoke of.
+hyp:	he took no notice of her. he looked at me, but as if, instead of me, he saw what he spoke of.
+121_127105_000016_000000(nwords=16,cor=15,ins=0,del=0,sub=1) corr:93.75%,cer:6.25%
+ref:	he turned round to the fire, gave a kick to a log, watched it an instant.
+hyp:	he turned round to the fire, gave a kick to a log, watched it an instant,
+121_127105_000018_000001(nwords=12,cor=11,ins=0,del=0,sub=1) corr:91.67%,cer:8.33%
+ref:	i took that here he tapped his heart. i've never lost it.
+hyp:	i took that here. he tapped his heart. i've never lost it.
+121_127105_000020_000004(nwords=15,cor=15,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	but if he put the inference by without a smile, it was also without irritation.
+hyp:	but if he put the inference by without a smile, it was also without irritation.
+121_127105_000020_000009(nwords=20,cor=17,ins=0,del=0,sub=3) corr:85.00%,cer:15.00%
+ref:	oh yes, don't grin, i liked her extremely, and i'm glad to this day to think she liked me too.
+hyp:	oh yes, don't grin. i liked her extremely, and am glad to this day to think she liked me, too.
+121_127105_000033_000000(nwords=12,cor=11,ins=0,del=0,sub=1) corr:91.67%,cer:8.33%
+ref:	the story won't tell," said douglas not in any literal vulgar way.
+hyp:	the story won't tell," said douglas, not in any literal vulgar way.
+121_127105_000044_000003(nwords=21,cor=21,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	the awkward thing was that they had practically no other relations, and that his own affairs took up all his time.
+hyp:	the awkward thing was that they had practically no other relations, and that his own affairs took up all his time.
+1284_1180_000007_000000(nwords=22,cor=22,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	at the foot of the mountain that separated the country of the munchkins from the country of the gillikins, the path divided.
+hyp:	at the foot of the mountain that separated the country of the munchkins from the country of the gillikins, the path divided.
+1284_1180_000020_000000(nwords=20,cor=18,ins=0,del=0,sub=2) corr:90.00%,cer:10.00%
+ref:	i never knew i was called the unlucky, said ojojo soberly, but it is really a good name for me.
+hyp:	i never knew i was called the unlucky," said ojo soberly, but it is really a good name for me.
+1284_1180_000023_000000(nwords=23,cor=23,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	i do not know how, but you must keep the matter in mind, and perhaps the chance will come to you," she replied.
+hyp:	i do not know how, but you must keep the matter in mind, and perhaps the chance will come to you," she replied.
+1284_1180_000027_000000(nwords=17,cor=14,ins=0,del=1,sub=2) corr:82.35%,cer:17.65%
+ref:	we are traveling," replied ojo, and we stopped at your house, just to rest and refresh ourselves.
+hyp:	we're traveling," replied ojo, and we stopped at your house just to rest and refresh ourselves.
+1284_1180_000045_000002(nwords=17,cor=16,ins=1,del=0,sub=1) corr:94.12%,cer:11.76%
+ref:	what is that? ojo asked, for this seemed even more strange and unusual than a glass cat.
+hyp:	what is that? oh, joe asked, for this seemed even more strange and unusual than a glass cat.
+1284_1180_000053_000001(nwords=22,cor=22,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	i will show you what a good job i did." and she went to a tall cupboard and threw open the doors.
+hyp:	i will show you what a good job i did." and she went to a tall cupboard and threw open the doors.
+1284_1181_000027_000000(nwords=20,cor=20,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	this powder must not be used before tomorrow morning, but i think it is now cool enough to be bottled.
+hyp:	this powder must not be used before tomorrow morning, but i think it is now cool enough to be bottled.
+1284_1181_000028_000001(nwords=23,cor=23,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	very carefully he placed the powder of life in the gold bottle and then locked it up in a drawer of his cabinet.
+hyp:	very carefully he placed the powder of life in the gold bottle and then locked it up in a drawer of his cabinet.
+1320_122612_000002_000000(nwords=16,cor=14,ins=0,del=0,sub=2) corr:87.50%,cer:12.50%
+ref:	if you find a man there, he shall die a flea's death, mary, wives of windsor.
+hyp:	if you find a man there, he shall die a flea's death. merry wives of windsor.
+1320_122612_000006_000004(nwords=16,cor=16,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	at last the scouts spoke in english, and at once explained the embarrassment of their situation.
+hyp:	at last the scouts spoke in english, and at once explained the embarrassment of their situation.
+1320_122612_000020_000001(nwords=22,cor=21,ins=0,del=0,sub=1) corr:95.45%,cer:4.55%
+ref:	a circle of a few hundred feet in circumference was drawn and each of the party took a segment for his portion.
+hyp:	a circle of a few hundred feet in circumference was drawn, and each of the party took a segment for his portion.
+1320_122612_000021_000000(nwords=18,cor=17,ins=0,del=0,sub=1) corr:94.44%,cer:5.56%
+ref:	such cunning is not without its deviltry," exclaimed hawkeye when he met the disappointed looks of his assistants.
+hyp:	such cunning is not without its deviltry!" exclaimed hawkeye when he met the disappointed looks of his assistants.
+1320_122612_000029_000000(nwords=18,cor=17,ins=0,del=0,sub=1) corr:94.44%,cer:5.56%
+ref:	the whole party now proceeded, following the course of the reel, keeping anxious eyes on the regular impressions.
+hyp:	the whole party now proceeded, following the course of the rill, keeping anxious eyes on the regular impressions.
+1320_122612_000033_000000(nwords=18,cor=16,ins=0,del=2,sub=0) corr:88.89%,cer:11.11%
+ref:	softly, softly, softly, softly. we know our path, but it is good to examine the formation of things.
+hyp:	softly, softly, we know our path, but it is good to examine the formation of things.
+1320_122612_000037_000001(nwords=22,cor=20,ins=0,del=0,sub=2) corr:90.91%,cer:9.09%
+ref:	see, the heel has hardly touched the ground. and there, the dark hair has made a little jump from root to root.
+hyp:	see, the heel has hardly touched the ground, and there the dark hair has made a little jump from root to root.
+1320_122612_000037_000002(nwords=15,cor=14,ins=0,del=1,sub=0) corr:93.33%,cer:6.67%
+ref:	no, no, no. my knowledge for it. neither of them was nigh fainting here away.
+hyp:	no, no, my knowledge for it. neither of them was nigh fainting here away.
+1320_122612_000051_000001(nwords=19,cor=17,ins=0,del=0,sub=2) corr:89.47%,cer:10.53%
+ref:	do you keep them under your rifle while i creep in behind through the bush and take them alive?
+hyp:	do you keep him under your rifle while i creep in behind through the bush and take him alive?
+1320_122612_000056_000003(nwords=17,cor=17,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	having reached within a few yards of the ladder, he arose to his feet silently and slowly.
+hyp:	having reached within a few yards of the ladder, he arose to his feet silently and slowly.
+1320_122617_000043_000001(nwords=25,cor=20,ins=0,del=1,sub=4) corr:80.00%,cer:20.00%
+ref:	so, on kess you had better take the lead, while i will put on the skin again and trust the kion for wand of speed.
+hyp:	so, uncus, you had better take the lead, while i will put on the skin again and trust to cunning for want of speed.
+1580_141083_000006_000000(nwords=18,cor=18,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	my friend's temper had not improved since he had been deprived of the congenial surroundings of baker street.
+hyp:	my friend's temper had not improved since he had been deprived of the congenial surroundings of baker street.
+1580_141083_000006_000001(nwords=14,cor=12,ins=0,del=0,sub=2) corr:85.71%,cer:14.29%
+ref:	without his scrap-books, his chemicals, and his homely untidiness, he was an uncomfortable man.
+hyp:	without his scrap-books, his chemicals, and his homeland tidiness, he was an uncomfortable man.
+1580_141083_000008_000004(nwords=19,cor=18,ins=0,del=0,sub=1) corr:94.74%,cer:5.26%
+ref:	i had, however, promised to take tea in a friend's room, so i left the proof upon my desk.
+hyp:	i had, however, promised to take tea in a friend's rooms, so i left the proof upon my desk.
+1580_141083_000009_000002(nwords=25,cor=25,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	for an instant i imagined that i had left my own there, but on feeling in my pocket i found that it was all right.
+hyp:	for an instant i imagined that i had left my own there, but on feeling in my pocket i found that it was all right.
+1580_141083_000012_000000(nwords=19,cor=18,ins=0,del=0,sub=1) corr:94.74%,cer:5.26%
+ref:	the first page on the floor, the second in the window, the third where you left it, said he.
+hyp:	the first page on the floor, the second in the window, the third where you left it," said he.
+1580_141083_000015_000000(nwords=16,cor=16,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	for an instant i imagined that bannister had taken the unpardonable liberty of examining my papers.
+hyp:	for an instant i imagined that bannister had taken the unpardonable liberty of examining my papers.
+1580_141083_000015_000002(nwords=27,cor=26,ins=0,del=0,sub=1) corr:96.30%,cer:3.70%
+ref:	the alternative was that someone passing had observed the key in the door, had known that i was out, and had entered to look at the papers.
+hyp:	the alternative was that someone passing had observed the key in the door, had known that i was out, and had entered to look at the paper.
+1580_141083_000016_000006(nwords=27,cor=25,ins=0,del=1,sub=1) corr:92.59%,cer:7.41%
+ref:	evidently the rascal had copied the paper in a great hurry and had broken his pencil, and had been compelled to put a fresh point to it.
+hyp:	evidently the rascal had copied the paper in a great hurry, had broken his pencil, and had been compelled to put a fresh point to it.
+1580_141083_000017_000000(nwords=15,cor=11,ins=3,del=0,sub=4) corr:73.33%,cer:46.67%
+ref:	said holmes, who, as recovering his good humorous attention, became more engrossed by the case.
+hyp:	excellent!" said holmes, who was recovering his good humour, as his attention became more engrossed by the case.
+1580_141083_000018_000004(nwords=26,cor=25,ins=1,del=0,sub=1) corr:96.15%,cer:7.69%
+ref:	not only this, but on the table i found a small ball of black door clay with specks of something which looks like sawdust in it.
+hyp:	not only this, but on the table i found a small ball of black dough or clay with specks of something which looks like sawdust in it.
+1580_141083_000047_000007(nwords=25,cor=25,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	he carried them over to the window-table, because from there he could see if you came across the courtyard, and so could effect an escape.
+hyp:	he carried them over to the window-table, because from there he could see if you came across the courtyard, and so could effect an escape.
+1580_141083_000056_000006(nwords=24,cor=23,ins=0,del=0,sub=1) corr:95.83%,cer:4.17%
+ref:	i was hoping that if the paper on which he wrote was thin some trace of it might come through upon this polished surface.
+hyp:	i was hoping that if the paper on which he wrote was thin, some trace of it might come through upon this polished surface.
+1580_141083_000061_000001(nwords=23,cor=22,ins=0,del=0,sub=1) corr:95.65%,cer:4.35%
+ref:	as a matter of fact, the drawn curtain disclosed nothing but three or four suits of clothes hanging from a line of pegs
+hyp:	as a matter of fact, the drawn curtain disclosed nothing but three or four suits of clothes hanging from a line of pegs.
+1580_141083_000063_000000(nwords=19,cor=19,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	it was a small pyramid of black putty-like stuff, exactly like the one upon the table of the study.
+hyp:	it was a small pyramid of black putty-like stuff, exactly like the one upon the table of the study.
+1580_141083_000066_000002(nwords=21,cor=20,ins=0,del=0,sub=1) corr:95.24%,cer:4.76%
+ref:	what could he do? he caught up everything which would betray him. and he rushed into your bedroom to conceal himself.
+hyp:	what could he do? he caught up everything which would betray him, and he rushed into your bedroom to conceal himself.
+1580_141083_000070_000000(nwords=17,cor=13,ins=0,del=0,sub=4) corr:76.47%,cer:23.53%
+ref:	ladder's pond, weed-framework, three separate windows, one swinging on hinge and large enough to admit a man.
+hyp:	lattice-paned, lead framework, three separate windows, one swing on hinge and large enough to admit a man.
+1580_141083_000081_000003(nwords=14,cor=13,ins=0,del=0,sub=1) corr:92.86%,cer:7.14%
+ref:	his father was a notorious sir jabez gilchrist, who ruined himself on the turf.
+hyp:	his father was the notorious sir jabez gilchrist, who ruined himself on the turf.
+1580_141084_000009_000001(nwords=17,cor=16,ins=0,del=1,sub=0) corr:94.12%,cer:5.88%
+ref:	a tall, flaxen-haired, slim young fellow opened it, and made us welcome when he understood our errand.
+hyp:	tall, flaxen-haired, slim young fellow opened it, and made us welcome when he understood our errand.
+1580_141084_000009_000007(nwords=23,cor=23,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	the outer door would not open to our knock, and nothing more substantial than a torrent of bad language came from behind it.
+hyp:	the outer door would not open to our knock, and nothing more substantial than a torrent of bad language came from behind it.
+1580_141084_000029_000001(nwords=17,cor=14,ins=9,del=0,sub=3) corr:82.35%,cer:70.59%
+ref:	i over-agreed that one could be ordered, but that it was not a usual size of pen-sock.
+hyp:	all were agreed that one could be ordered, but that it was not a usual size of pencil, and that it was seldom kept in stock.
+1580_141084_000029_000002(nwords=19,cor=19,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	my friend did not appear to be depressed by his failure, but shrugged his shoulders in half humorous resignation.
+hyp:	my friend did not appear to be depressed by his failure, but shrugged his shoulders in half humorous resignation.
+1580_141084_000031_000000(nwords=24,cor=24,ins=1,del=0,sub=0) corr:100.00%,cer:4.17%
+ref:	holmes made no further allusion to the matter that day, though he sat lost in thought for a long time after our belated dinner.
+hyp:	holmes made no further allusion to the matter of that day, though he sat lost in thought for a long time after our belated dinner.
+1580_141084_000044_000000(nwords=18,cor=18,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	the unfortunate tutor was certainly in a state of pitiable agitation when we found him in his chambers.
+hyp:	the unfortunate tutor was certainly in a state of pitiable agitation when we found him in his chambers.
+1580_141084_000069_000001(nwords=21,cor=19,ins=0,del=0,sub=2) corr:90.48%,cer:9.52%
+ref:	he was a fine figure of a man, tall, live, and agile, with a springy step and a pleasant, open face.
+hyp:	he was a fine figure of a man, tall, lithe, and agile, with a springy step and a pleasant open face.
+1580_141084_000071_000000(nwords=17,cor=16,ins=0,del=0,sub=1) corr:94.12%,cer:5.88%
+ref:	the unfortunate young man staggered back, and cast a look full of horror and reproach at bannister.
+hyp:	the unfortunate young man staggered back and cast a look full of horror and reproach at bannister.
+1580_141084_000075_000000(nwords=16,cor=12,ins=9,del=2,sub=2) corr:75.00%,cer:81.25%
+ref:	"'come, come!' said holmes, said holmes kindly. it is human too of being a callous criminal."
+hyp:	"'come, come,' said holmes kindly. it is human to err, and at least no one can accuse you of being a callous criminal."
+1580_141084_000077_000003(nwords=25,cor=23,ins=0,del=0,sub=2) corr:92.00%,cer:8.00%
+ref:	i was measuring how tall a man would need to be in order to see as he passed what papers were on the central table.
+hyp:	i was measuring how tall a man would need to be in order to see, as he passed, what papers were on the central table.
+1580_141084_000077_000004(nwords=21,cor=19,ins=1,del=0,sub=2) corr:90.48%,cer:14.29%
+ref:	i'm six feet high and i could do it with an effort no one less than that would have a chance.
+hyp:	i am six feet high and i could do it with an effort. no one less than that would have a chance.
+1580_141084_000078_000001(nwords=22,cor=22,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	of the center table i could make nothing, until in your description of gilchrist you mentioned that he was a long-distance jumper.
+hyp:	of the center table i could make nothing, until in your description of gilchrist you mentioned that he was a long-distance jumper.
+1580_141084_000079_000002(nwords=23,cor=22,ins=0,del=0,sub=1) corr:95.65%,cer:4.35%
+ref:	as he passed your window, he saw, by means of his great height, these proofs upon your table, and conjectured what they were.
+hyp:	as he passed your window he saw, by means of his great height, these proofs upon your table, and conjectured what they were.
+1580_141084_000079_000005(nwords=21,cor=21,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	it was not a dangerous exploit, for he could always pretend that he had simply looked in to ask a question.
+hyp:	it was not a dangerous exploit, for he could always pretend that he had simply looked in to ask a question.
+1580_141084_000082_000007(nwords=22,cor=21,ins=0,del=0,sub=1) corr:95.45%,cer:4.55%
+ref:	you observe that the scratch on that table is slight at one side, but deepens in the direction of the bedroom door.
+hyp:	you observe that the scratch on that table is slight at one side but deepens in the direction of the bedroom door.
+1995_1826_000016_000011(nwords=17,cor=16,ins=0,del=0,sub=1) corr:94.12%,cer:5.88%
+ref:	she wanted a glance at the new books and periodicals and talk of great philanthropies and reforms.
+hyp:	she wanted a glance of the new books and periodicals and talk of great philanthropies and reforms.
+1995_1826_000022_000001(nwords=17,cor=17,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	miss taylor did not know much about cotton, but at least one more remark seemed called for.
+hyp:	miss taylor did not know much about cotton, but at least one more remark seemed called for.
+1995_1826_000056_000000(nwords=16,cor=14,ins=0,del=0,sub=2) corr:87.50%,cer:12.50%
+ref:	she started thinking of cotton but at once, she pulled herself back to the other aspect.
+hyp:	she started thinking of cotton, but at once she pulled herself back to the other aspect.
+1995_1836_000003_000002(nwords=19,cor=18,ins=0,del=0,sub=1) corr:94.74%,cer:5.26%
+ref:	at last the cotton combine was to all appearances an assured fact, and he was slated for the senate.
+hyp:	at last the cotton combine was to all appearances an assured fact and he was slated for the senate.
+1995_1836_000019_000000(nwords=9,cor=7,ins=0,del=0,sub=2) corr:77.78%,cer:22.22%
+ref:	but cresswell added significantly, capacity differs enormously between races.
+hyp:	but, creswell added significantly, capacity differs enormously between races.
+1995_1837_000010_000005(nwords=12,cor=10,ins=0,del=0,sub=2) corr:83.33%,cer:16.67%
+ref:	to her all things meant something nothing was aimless. nothing merely happened.
+hyp:	to her, all things meant something. nothing was aimless. nothing merely happened.
+1995_1837_000011_000002(nwords=16,cor=13,ins=2,del=0,sub=3) corr:81.25%,cer:31.25%
+ref:	perhaps it the water had but drained from the cotton. it was so strong and tall.
+hyp:	perhaps if the water had but drained from the cotton, it was so strong and tall, but pshaw!
+1995_1837_000012_000003(nwords=12,cor=11,ins=4,del=0,sub=1) corr:91.67%,cer:41.67%
+ref:	the raindrops were still dripping and gleaming from the trees flashing back
+hyp:	the raindrops were still dripping and gleaming from the trees, flashing back the heavy yellow sunlight.
+1995_1837_000019_000001(nwords=24,cor=23,ins=0,del=0,sub=1) corr:95.83%,cer:4.17%
+ref:	the cotton crop was short and poor because of the great rain, but the sun had saved the best and the price had soared.
+hyp:	the cotton crop was short and poor because of the great rain, but the sun had saved the best, and the price had soared.
+1995_1837_000021_000002(nwords=14,cor=13,ins=0,del=0,sub=1) corr:92.86%,cer:7.14%
+ref:	the sun, the swamp. then finding all well, she closed her eyes and slept.
+hyp:	the sun, the swamp. then, finding all well, she closed her eyes and slept.
+1995_1837_000026_000002(nwords=16,cor=14,ins=0,del=0,sub=2) corr:87.50%,cer:12.50%
+ref:	he came down to her slowly with fixed, hungry eyes threading his way amid the fleece.
+hyp:	he came down to her slowly with fixed, hungry eyes, threading his way amid the fleas.
+2300_131720_000003_000001(nwords=15,cor=15,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	it went into service august 15, 1882, about three weeks before the pearl street station.
+hyp:	it went into service august 15, 1882, about three weeks before the pearl street station.
+2300_131720_000004_000006(nwords=21,cor=19,ins=0,del=0,sub=2) corr:90.48%,cer:9.52%
+ref:	why if we erect a station at the falls? it is a great economy to get it up to the city.
+hyp:	why, if we erect a station at the falls, it is a great economy to get it up to the city.
+2300_131720_000004_000012(nwords=13,cor=11,ins=0,del=0,sub=2) corr:84.62%,cer:15.38%
+ref:	burbank and his tribe represent in the vegetable world edison and the mechanical.
+hyp:	burbank and his tribe represent in the vegetable world, edison in the mechanical.
+2300_131720_000006_000001(nwords=12,cor=12,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	every department of mechanics was stimulated and benefited to an extraordinary degree.
+hyp:	every department of mechanics was stimulated and benefited to an extraordinary degree.
+2300_131720_000008_000007(nwords=18,cor=18,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	i requested him to make a sheet brass oil cup and solder it to the base i had.
+hyp:	i requested him to make a sheet brass oil cup and solder it to the base i had.
+2300_131720_000008_000009(nwords=20,cor=19,ins=0,del=0,sub=1) corr:95.00%,cer:5.00%
+ref:	i then had a standard made to hold another oil cup, so as to see and regulate the drop feed.
+hyp:	i then had a standard made to hold another oil cup so as to see and regulate the drop feed.
+2300_131720_000016_000012(nwords=20,cor=19,ins=0,del=0,sub=1) corr:95.00%,cer:5.00%
+ref:	they found an engine somewhat loose in the bearings, and there followed remarks which would not look well in print.
+hyp:	they found an engine somewhat loose in the bearings and there followed remarks which would not look well in print.
+2300_131720_000019_000001(nwords=16,cor=15,ins=0,del=0,sub=1) corr:93.75%,cer:6.25%
+ref:	at this time and long after, all arc lighting was done on a flat rate basis.
+hyp:	at this time, and long after, all arc lighting was done on a flat rate basis.
+2300_131720_000020_000008(nwords=13,cor=13,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	hence the edison electrolytic meter is no longer used, despite its excellent qualities.
+hyp:	hence the edison electrolytic meter is no longer used, despite its excellent qualities.
+2300_131720_000023_000003(nwords=17,cor=16,ins=0,del=0,sub=1) corr:94.12%,cer:5.88%
+ref:	the meter continued in general service during 1890-99 and probably up to the close of the century.
+hyp:	the meter continued in general service during 1899 and probably up to the close of the century.
+2300_131720_000025_000007(nwords=21,cor=21,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	the heat from this lamp would prevent the liquid from freezing so that the meter could go on doing its duty.
+hyp:	the heat from this lamp would prevent the liquid from freezing so that the meter could go on doing its duty.
+2300_131720_000026_000000(nwords=21,cor=21,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	after the station had been running several months and was technically a success, we began to look after the financial part.
+hyp:	after the station had been running several months and was technically a success, we began to look after the financial part.
+2300_131720_000026_000007(nwords=15,cor=12,ins=0,del=0,sub=3) corr:80.00%,cer:20.00%
+ref:	they said they were sorry that is wall street sorry and refused to pay it.
+hyp:	they said they were sorry, that is, wall street sorry, and refused to pay it.
+2300_131720_000032_000005(nwords=19,cor=18,ins=0,del=0,sub=1) corr:94.74%,cer:5.26%
+ref:	the investors in the enterprise were ready and anxious to meet the extra cost of putting the wires underground
+hyp:	the investors in the enterprise were ready and anxious to meet the extra cost of putting the wires underground.
+2300_131720_000034_000005(nwords=14,cor=13,ins=0,del=0,sub=1) corr:92.86%,cer:7.14%
+ref:	one evening there came a sudden flash of fire and a spluttering, sizzling noise.
+hyp:	one evening there came a sudden flash of fire and a sputtering, sizzling noise.
+2300_131720_000039_000007(nwords=15,cor=15,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	we had two wire underground feeders sent without any plans or specifications for their installation.
+hyp:	we had two wire underground feeders sent without any plans or specifications for their installation.
+2300_131720_000040_000005(nwords=13,cor=13,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	among the exhibits of that exposition was the edison system of incandescent lighting.
+hyp:	among the exhibits of that exposition was the edison system of incandescent lighting.
+2300_131720_000042_000002(nwords=18,cor=18,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	the machinery was taken up in pieces on the backs of mules from the foot of the mountain.
+hyp:	the machinery was taken up in pieces on the backs of mules from the foot of the mountain.
+237_126133_000002_000004(nwords=21,cor=18,ins=0,del=0,sub=3) corr:85.71%,cer:14.29%
+ref:	it got to be noticed finally in one, and all redoubled their exertions to make everything twice as pleasant as ever.
+hyp:	it got to be noticed finally, and one and all redoubled their exertions to make everything twice as pleasant as ever.
+237_126133_000015_000001(nwords=22,cor=22,ins=2,del=0,sub=0) corr:100.00%,cer:9.09%
+ref:	somehow, the days when the home feeling was the strongest, this day it seemed as if she could bear it no longer.
+hyp:	somehow, of all the days when the home feeling was the strongest, this day it seemed as if she could bear it no longer.
+237_126133_000021_000000(nwords=11,cor=8,ins=0,del=1,sub=2) corr:72.73%,cer:27.27%
+ref:	at this, the bundle opened suddenly and out popped pop fancy.
+hyp:	at this, the bundle opened suddenly, and out popped franzi.
+237_126133_000024_000000(nwords=16,cor=15,ins=0,del=0,sub=1) corr:93.75%,cer:6.25%
+ref:	aren't you glad i've come, polly?" asked frenzy, with her little face close to polly's own.
+hyp:	aren't you glad i've come, polly?" asked fronzie, with her little face close to polly's own.
+237_126133_000028_000000(nwords=20,cor=13,ins=0,del=0,sub=7) corr:65.00%,cer:35.00%
+ref:	is her name francie putting dick and willing to be left out and not thinking of anything else to ask?
+hyp:	is her name bronzy? put in dick, unwilling to be left out, and not thinking of anything else to ask.
+237_126133_000029_000000(nwords=14,cor=11,ins=0,del=0,sub=3) corr:78.57%,cer:21.43%
+ref:	boys, whisper the mother warningly, she can't answer you, just look at her face.
+hyp:	boys," whispered their mother warningly, she can't answer you, just look at her face.
+237_126133_000034_000000(nwords=14,cor=6,ins=0,del=7,sub=1) corr:42.86%,cer:57.14%
+ref:	i know gasped polly, controlling her sobs. i want only i can't thank you.
+hyp:	i know," gasped polly, controlling her sobs.
+237_126133_000043_000000(nwords=17,cor=16,ins=0,del=0,sub=1) corr:94.12%,cer:5.88%
+ref:	so you must, cried jasper, and chanted at his success in amusing, and i'll go with you.
+hyp:	so you must!" cried jasper, and chanted at his success in amusing, and i'll go with you.
+237_126133_000046_000000(nwords=11,cor=6,ins=2,del=3,sub=2) corr:54.55%,cer:63.64%
+ref:	carried polly, turning around at the last words, how could you?
+hyp:	oh, franzi!" cried polly, turning around at the last words.
+237_134493_000002_000002(nwords=18,cor=18,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	could he rise from beneath it, he would not know the country under which he has been asleep.
+hyp:	could he rise from beneath it, he would not know the country under which he has been asleep.
+237_134493_000002_000003(nwords=16,cor=13,ins=2,del=0,sub=3) corr:81.25%,cer:31.25%
+ref:	the shaggy coat of berry which they lifted to make him a bed has vanished forever.
+hyp:	the shaggy coat of the prairie, which they lifted to make him a bed, has vanished for ever.
+237_134493_000004_000003(nwords=17,cor=16,ins=3,del=0,sub=1) corr:94.12%,cer:23.53%
+ref:	the air and the earth are curiously mingled as if one were the breath of the other.
+hyp:	the air and the earth are curiously mated and intermingled, as if the one were the breath of the other.
+237_134493_000007_000000(nwords=24,cor=24,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	when he had been mowing the better part of an hour, he heard the rattle of a light cart on the road behind him.
+hyp:	when he had been mowing the better part of an hour, he heard the rattle of a light cart on the road behind him.
+237_134493_000007_000001(nwords=6,cor=6,ins=13,del=0,sub=0) corr:100.00%,cer:216.67%
+ref:	he kept on with his work.
+hyp:	supposing that it was his sister coming back from one of her farms, he kept on with his work.
+237_134493_000011_000000(nwords=16,cor=16,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	lots of the bohemian boys at the university are," said emil, taking up his scythe again.
+hyp:	lots of the bohemian boys at the university are," said emil, taking up his scythe again.
+237_134493_000013_000001(nwords=17,cor=14,ins=1,del=0,sub=3) corr:82.35%,cer:23.53%
+ref:	oh, there's no denying you're a spunky little bunch, you chicks." he cooled back over his shoulder.
+hyp:	oh, there's no denying you are a spunky little bunch, you checks." he called back over his shoulder.
+237_134493_000017_000001(nwords=13,cor=10,ins=3,del=0,sub=3) corr:76.92%,cer:46.15%
+ref:	oh, the good boy. she turned to him with a quick bright smile.
+hyp:	oh, there's a good boy!" she turned her head to him with a quick, bright smile.
+237_134493_000021_000001(nwords=19,cor=19,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	there were so many sheds and outbuildings grouped about it that the place looked not unlike a tiny village.
+hyp:	there were so many sheds and outbuildings grouped about it that the place looked not unlike a tiny village.
+237_134493_000021_000002(nwords=16,cor=16,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	a stranger approaching it could not help noticing the beauty and fruitfulness of the outlying fields.
+hyp:	a stranger approaching it could not help noticing the beauty and fruitfulness of the outlying fields.
+237_134493_000021_000003(nwords=16,cor=16,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	there was something individual about the great farm, a most unusual trimness and care for detail.
+hyp:	there was something individual about the great farm, a most unusual trimness and care for detail.
+237_134493_000022_000001(nwords=12,cor=9,ins=0,del=1,sub=2) corr:75.00%,cer:25.00%
+ref:	one room is papered, carpeted over furnished, the next is almost bare.
+hyp:	one room is papered, carpeted, over-furnished, the next is almost bare.
+237_134500_000001_000002(nwords=16,cor=14,ins=0,del=0,sub=2) corr:87.50%,cer:12.50%
+ref:	one of the ghouls was getting a divorce and frank took it as a personal affront.
+hyp:	one of the goulds was getting a divorce, and frank took it as a personal affront.
+237_134500_000001_000004(nwords=17,cor=17,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	frank read english slowly, and the more he read about this divorce case, the angrier he grew.
+hyp:	frank read english slowly, and the more he read about this divorce case, the angrier he grew.
+237_134500_000003_000004(nwords=19,cor=19,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	frank and lou bergson had very similar ideas, and they were two of the political agitators of the county.
+hyp:	frank and lou bergson had very similar ideas, and they were two of the political agitators of the county.
+237_134500_000014_000002(nwords=20,cor=18,ins=0,del=0,sub=2) corr:90.00%,cer:10.00%
+ref:	i'm a good cowslick, but i think i could get along with caring for trees if i hadn't anything else.
+hyp:	i'm a good catholic, but i think i could get along with caring for trees, if i hadn't anything else.
+237_134500_000015_000000(nwords=16,cor=15,ins=0,del=1,sub=0) corr:93.75%,cer:6.25%
+ref:	that's a poor saying," said emil, stooping over to wipe his hands in the wet grass.
+hyp:	a poor saying," said emil, stooping over to wipe his hands in the wet grass.
+237_134500_000016_000002(nwords=19,cor=19,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	i like trees because they seem more resigned to the way they have to live than other things do.
+hyp:	i like trees because they seem more resigned to the way they have to live than other things do.
+237_134500_000022_000000(nwords=18,cor=13,ins=0,del=0,sub=5) corr:72.22%,cer:27.78%
+ref:	oh, emile, you know what i mean. marie tossed her head impatiently. does she really care about him?
+hyp:	"'o, amiel, you know what i mean,' marie tossed her head impatiently. "'does she really care about him?'
+237_134500_000023_000000(nwords=12,cor=10,ins=0,del=0,sub=2) corr:83.33%,cer:16.67%
+ref:	who? alexandra." emile laughed and thrust his hands into his trousers' pockets.
+hyp:	who? alexandra?" emil laughed and thrust his hands into his trousers' pockets.
+237_134500_000031_000000(nwords=15,cor=12,ins=0,del=0,sub=3) corr:80.00%,cer:20.00%
+ref:	and there are so many many things i can't do," emil echoed her tone sarcastically.
+hyp:	and there are so many, many things i can't do." amiel echoed her tone sarcastically.
+237_134500_000032_000001(nwords=17,cor=16,ins=0,del=0,sub=1) corr:94.12%,cer:5.88%
+ref:	i wish you weren't so restless and didn't get so worked up over things," she said sadly.
+hyp:	i wish you weren't so restless, and didn't get so worked up over things," she said sadly.
+237_134500_000036_000003(nwords=15,cor=12,ins=0,del=0,sub=3) corr:80.00%,cer:20.00%
+ref:	"'many how, there's nothing to understand,' she struck the ground with her little foot fiercely.
+hyp:	and anyhow there's nothing to understand." she struck the ground with her little foot fiercely.
+237_134500_000036_000005(nwords=19,cor=17,ins=0,del=0,sub=2) corr:89.47%,cer:10.53%
+ref:	it will go away, and things will be just as they used to. i wish you were a catholic.
+hyp:	it will go away and things will be just as they used to. i wish you were a catholic."
+260_123286_000005_000001(nwords=20,cor=19,ins=0,del=0,sub=1) corr:95.00%,cer:5.00%
+ref:	he examines the horizon all round with his glass and folds his arms with the air of an injured man.
+hyp:	he examines the horizon all round with his glass, and folds his arms with the air of an injured man.
+260_123286_000007_000000(nwords=16,cor=12,ins=0,del=0,sub=4) corr:75.00%,cer:25.00%
+ref:	you seem anxious my uncle i said seeing him continually with his glass to his eye
+hyp:	you seem anxious, my uncle, i said, seeing him continually with his glass to his eye.
+260_123286_000013_000000(nwords=18,cor=15,ins=1,del=0,sub=3) corr:83.33%,cer:22.22%
+ref:	i then remembered that the professor before starting had estimated the length of this underground sea at 30'e.
+hyp:	i then remembered that the professor, before starting, had estimated the length of this underground sea at 30 leagues.
+260_123286_000020_000000(nwords=17,cor=17,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	i take this as my answer and i leave the professor to bite his lips with impatience.
+hyp:	i take this as my answer and i leave the professor to bite his lips with impatience.
+260_123286_000021_000005(nwords=16,cor=15,ins=0,del=0,sub=1) corr:93.75%,cer:6.25%
+ref:	i was possessed with an apprehension lest the electric light should grow dim or fail altogether.
+hyp:	i was possessed by an apprehension lest the electric light should grow dim or fail altogether.
+260_123286_000031_000003(nwords=9,cor=8,ins=0,del=0,sub=1) corr:88.89%,cer:11.11%
+ref:	they possessed a perfect organization, gigantic proportions, prodigious strength.
+hyp:	they possessed a perfect organization, gigantic proportions, prodigious strength,
+260_123286_000033_000003(nwords=17,cor=16,ins=0,del=0,sub=1) corr:94.12%,cer:5.88%
+ref:	yet the deep marks of conical teeth upon the iron pick are certainly those of the crocodile.
+hyp:	yet the deep marks of conical teeth upon the iron pick are certainly those of a crocodile.
+260_123286_000034_000003(nwords=18,cor=15,ins=0,del=0,sub=3) corr:83.33%,cer:16.67%
+ref:	what a very bad notion that was of his i thought to myself to take soundings just here
+hyp:	what a very bad notion that was of his, i thought to myself, to take soundings just here.
+260_123286_000038_000001(nwords=19,cor=18,ins=0,del=0,sub=1) corr:94.74%,cer:5.26%
+ref:	the raft was heaved up on a watery mountain and pitched down again at a distance of 20 fathoms.
+hyp:	the raft was heaved up on a watery mountain and pitched down again at a distance of twenty fathoms.
+260_123286_000045_000001(nwords=14,cor=14,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	we stood amazed, thunderstruck at the presence of such a herd of marine monsters.
+hyp:	we stood amazed, thunderstruck at the presence of such a herd of marine monsters.
+260_123286_000047_000001(nwords=18,cor=18,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	the reptiles rose. they wheeled around our little raft with a rapidity greater than that of express trains.
+hyp:	the reptiles rose. they wheeled around our little raft with a rapidity greater than that of express trains.
+260_123286_000057_000001(nwords=19,cor=18,ins=0,del=0,sub=1) corr:94.74%,cer:5.26%
+ref:	two monsters only were creating all this commotion and before my eyes are two reptiles of the primitive world
+hyp:	two monsters only were creating all this commotion and before my eyes are two reptiles of the primitive world.
+260_123288_000004_000001(nwords=17,cor=16,ins=0,del=0,sub=1) corr:94.12%,cer:5.88%
+ref:	the atmosphere is charged with vapors pervaded with the electricity generated by the evaporation of saline waters.
+hyp:	the atmosphere is charged with vapors, pervaded with the electricity generated by the evaporation of saline waters.
+260_123288_000006_000000(nwords=15,cor=15,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	in the distance, the clouds resemble great bales of cotton, piled up in picturesque disorder.
+hyp:	in the distance, the clouds resemble great bales of cotton, piled up in picturesque disorder.
+260_123288_000023_000005(nwords=17,cor=17,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	my eyes fail under the dazzling light. my ears are stunned with the incessant crash of thunder.
+hyp:	my eyes fail under the dazzling light. my ears are stunned with the incessant crash of thunder.
+260_123288_000023_000006(nwords=19,cor=17,ins=0,del=0,sub=2) corr:89.47%,cer:10.53%
+ref:	i must be bound to the mast, which bows like a red before the mighty strength of the storm.
+hyp:	i must be bound to the mast which bows like a reed before the mighty strength of the storm.
+260_123288_000040_000000(nwords=16,cor=16,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	a suffocating smell of nitrogen fills the air. it enters the throat. it fills the lungs.
+hyp:	a suffocating smell of nitrogen fills the air. it enters the throat. it fills the lungs.
+260_123288_000045_000004(nwords=17,cor=17,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	we have been carried under england, under the channel, under france, perhaps under the whole of europe.
+hyp:	we have been carried under england, under the channel, under france, perhaps under the whole of europe.
+260_123440_000010_000002(nwords=17,cor=16,ins=0,del=0,sub=1) corr:94.12%,cer:5.88%
+ref:	and yesterday things went on just as usual. i wonder if i've been changed in the night.
+hyp:	and yesterday, things went on just as usual. i wonder if i've been changed in the night.
+260_123440_000018_000002(nwords=15,cor=11,ins=0,del=1,sub=3) corr:73.33%,cer:26.67%
+ref:	that will be a queer thing to be sure. however, a thing is queer today.
+hyp:	that will be a queer thing to be sure, however everything is queer today.
+260_123440_000023_000001(nwords=25,cor=23,ins=0,del=0,sub=2) corr:92.00%,cer:8.00%
+ref:	and yet i wish i could show you our cat dinah. i think you'd take a fancy to cats if you could only see her.
+hyp:	and yet, i wish i could show you our cat, dinah. i think you'd take a fancy to cats if you could only see her.
+260_123440_000024_000002(nwords=9,cor=9,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	our family always hated cats. nasty, low, vulgar things.
+hyp:	our family always hated cats. nasty, low, vulgar things.
+2830_3979_000018_000000(nwords=16,cor=16,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	the reformer had lectured on this epistle of st. paul's in 1519 and again in 1523.
+hyp:	the reformer had lectured on this epistle of st. paul's in 1519 and again in 1523.
+2830_3979_000018_000002(nwords=16,cor=15,ins=0,del=0,sub=1) corr:93.75%,cer:6.25%
+ref:	in his table talks the saying is recorded, the epistle to the galatians is my epistle.
+hyp:	in his table talks, the saying is recorded, the epistle to the galatians is my epistle.
+2830_3979_000018_000006(nwords=18,cor=16,ins=0,del=0,sub=2) corr:88.89%,cer:11.11%
+ref:	the lectures which are preserved in the works, herewith submitted to the american public, were delivered in 1531.
+hyp:	the lectures which are preserved in the works herewith submitted to the american public were delivered in 1531.
+2830_3979_000023_000000(nwords=14,cor=14,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	glory to god in the highest, and on earth peace, good will to men.
+hyp:	glory to god in the highest, and on earth peace, good will to men.
+2830_3980_000017_000001(nwords=18,cor=18,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	do you suppose that god, for the sake of a few lutheran heretics, would disown his entire church?
+hyp:	do you suppose that god, for the sake of a few lutheran heretics, would disown his entire church?
+2830_3980_000018_000000(nwords=13,cor=10,ins=0,del=0,sub=3) corr:76.92%,cer:23.08%
+ref:	against these boasting false apostles paul boldly defends his apostolic authority and ministry
+hyp:	against these boasting, false apostles, paul boldly defends his apostolic authority and ministry.
+2830_3980_000018_000002(nwords=20,cor=19,ins=0,del=0,sub=1) corr:95.00%,cer:5.00%
+ref:	he reminds them of the time when he opposed peter to his face and reproved the chief of the apostles.
+hyp:	he reminds him of the time when he opposed peter to his face and reproved the chief of the apostles.
+2830_3980_000021_000000(nwords=25,cor=25,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	every minister should make much of his calling and impress upon others the fact that he has been delegated by god to preach the gospel.
+hyp:	every minister should make much of his calling and impress upon others the fact that he has been delegated by god to preach the gospel.
+2830_3980_000022_000002(nwords=20,cor=20,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	paul exalts his ministry out of the desire to make known the name, the grace, and the mercy of god.
+hyp:	paul exalts his ministry out of the desire to make known the name, the grace, and the mercy of god.
+2961_961_000008_000000(nwords=12,cor=7,ins=0,del=0,sub=5) corr:58.33%,cer:41.67%
+ref:	socrates, excellent. timaeus, i like your manner of approaching the subject procedure.
+hyp:	socrates. excellent, timaeus. i like your manner of approaching the subject. proceed.
+2961_961_000011_000000(nwords=14,cor=13,ins=0,del=0,sub=1) corr:92.86%,cer:7.14%
+ref:	are there many worlds or one only? that is the fourth question, one only.
+hyp:	are there many worlds or one only? that is the fourth question. one only.
+2961_961_000020_000001(nwords=18,cor=18,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	and god created them according to the patterns or species of them which existed in the divine original.
+hyp:	and god created them according to the patterns or species of them which existed in the divine original.
+2961_961_000023_000007(nwords=14,cor=14,ins=1,del=0,sub=0) corr:100.00%,cer:7.14%
+ref:	and when external impressions enter in, they are really conquered, they seem to conquer.
+hyp:	and when external impressions enter in, they are really conquered, though they seem to conquer.
+2961_961_000024_000002(nwords=19,cor=17,ins=0,del=0,sub=2) corr:89.47%,cer:10.53%
+ref:	this, however, is an after-stage at present. we are only concerned with the creation of the body and soul.
+hyp:	this, however, is an after-stage. at present, we are only concerned with the creation of the body and soul.
+3570_5694_000007_000005(nwords=13,cor=10,ins=0,del=0,sub=3) corr:76.92%,cer:23.08%
+ref:	infamities induced by overindulgence are among some peoples, rarely recognized as manly attributes.
+hyp:	infirmities induced by overindulgence are among some peoples freely recognized as manly attributes.
+3570_5694_000007_000009(nwords=17,cor=16,ins=0,del=0,sub=1) corr:94.12%,cer:5.88%
+ref:	this invidious traditional distinction has not lost its force even among the more advanced peoples of today.
+hyp:	this invidious traditional distinction has not lost its force even among the more advanced people of today.
+3570_5694_000010_000001(nwords=16,cor=16,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	he is no longer simply the successful, aggressive male, the man of strength, resource and intrepidity.
+hyp:	he is no longer simply the successful, aggressive male, the man of strength, resource and intrepidity.
+3570_5694_000011_000004(nwords=16,cor=16,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	costly entertainments, such as the potlatch or the ball, are peculiarly adapted to serve this end.
+hyp:	costly entertainments, such as the potlatch or the ball, are peculiarly adapted to serve this end.
+3570_5694_000013_000001(nwords=15,cor=15,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	this differentiation is furthered by the inheritance of wealth and the consequent inheritance of gentility.
+hyp:	this differentiation is furthered by the inheritance of wealth and the consequent inheritance of gentility.
+3570_5694_000014_000019(nwords=16,cor=15,ins=0,del=0,sub=1) corr:93.75%,cer:6.25%
+ref:	in our heightened degree, therefore, delivery comes to be a badge of servitude, or rather servility.
+hyp:	in a heightened degree, therefore, delivery comes to be a badge of servitude, or rather servility.
+3570_5695_000001_000001(nwords=28,cor=27,ins=0,del=0,sub=1) corr:96.43%,cer:3.57%
+ref:	it is a fact of common observance that in this lower middle class there is no pretense of leisure on the part of the head of the household.
+hyp:	it is a fact of common observance that in this lower middle class there is no pretence of leisure on the part of the head of the household.
+3570_5695_000001_000003(nwords=22,cor=21,ins=0,del=0,sub=1) corr:95.45%,cer:4.55%
+ref:	but the middle-class wife still carries on the business of vicaria's leisure, for the good name of the household and its master.
+hyp:	but the middle-class wife still carries on the business of vicarious leisure, for the good name of the household and its master.
+3570_5695_000002_000000(nwords=18,cor=17,ins=2,del=0,sub=1) corr:94.44%,cer:16.67%
+ref:	the leisure rendered by the wife in such cases is, of course, not a simple manifestation of idleness.
+hyp:	the leisure rendered by the wife in such cases is, of course, not a simple manifestation of idleness or indolence.
+3570_5695_000004_000003(nwords=19,cor=18,ins=0,del=0,sub=1) corr:94.74%,cer:5.26%
+ref:	the observance of these standards, in some degree of approximation, becomes incumbent upon all classes layer in the scale.
+hyp:	the observance of these standards, in some degree of approximation, becomes incumbent upon all classes lower in the scale.
+3570_5695_000004_000010(nwords=15,cor=15,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	no class of society, not even the most abjectly poor, forgoes all customary conspicuous consumption.
+hyp:	no class of society, not even the most abjectly poor, forgoes all customary conspicuous consumption.
+3570_5695_000004_000011(nwords=19,cor=18,ins=0,del=0,sub=1) corr:94.74%,cer:5.26%
+ref:	the last items of this category of consumption are not given up except under stress of their direst necessity.
+hyp:	the last items of this category of consumption are not given up except under stress of the direst necessity.
+3570_5695_000005_000001(nwords=17,cor=17,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	both are methods of demonstrating the possession of wealth, and the two are conventionally accepted as equivalents.
+hyp:	both are methods of demonstrating the possession of wealth, and the two are conventionally accepted as equivalents.
+3570_5695_000005_000003(nwords=22,cor=21,ins=0,del=0,sub=1) corr:95.45%,cer:4.55%
+ref:	on grounds of expediency the preference may be given to the one or the other at different stages of the economic development.
+hyp:	on grounds of expediency, the preference may be given to the one or the other at different stages of the economic development.
+3570_5695_000005_000004(nwords=21,cor=19,ins=0,del=0,sub=2) corr:90.48%,cer:9.52%
+ref:	the question is which of the two methods will most effectively reach the persons whose convictions it is desired to affect.
+hyp:	the question is, which of the two methods will most effectively reach the persons whose convictions it is desired to affect?
+3570_5695_000008_000002(nwords=26,cor=24,ins=0,del=0,sub=2) corr:92.31%,cer:7.69%
+ref:	the result is that, in order to keep up a decent appearance, the former habitually lie hand to mouth, to a greater extent than the latter.
+hyp:	the result is that, in order to keep up a decent appearance, the former habitually live hand to mouth to a greater extent than the latter.
+3570_5695_000008_000005(nwords=20,cor=20,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	but the provocation to this line of evidence, as well as its transient effectiveness, is more decided in the city.
+hyp:	but the provocation to this line of evidence, as well as its transient effectiveness, is more decided in the city.
+3570_5695_000009_000004(nwords=14,cor=13,ins=0,del=0,sub=1) corr:92.86%,cer:7.14%
+ref:	among the latter everybody's affairs, especially everybody's pecuniary status, are known to everybody else.
+hyp:	among the latter, everybody's affairs, especially everybody's pecuniary status, are known to everybody else.
+3570_5695_000010_000005(nwords=21,cor=21,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	at the same time, the wages in the trade are high enough to make movement from place to place relatively easy.
+hyp:	at the same time, the wages in the trade are high enough to make movement from place to place relatively easy.
+3570_5696_000004_000003(nwords=17,cor=16,ins=0,del=0,sub=1) corr:94.12%,cer:5.88%
+ref:	the instinct of workmanship is present in all man, and asserts itself even under very adverse circumstances.
+hyp:	the instinct of workmanship is present in all men, and asserts itself even under very adverse circumstances.
+3570_5696_000007_000004(nwords=14,cor=13,ins=0,del=0,sub=1) corr:92.86%,cer:7.14%
+ref:	a reconciliation between the two conflicting requirements is effected by a resort to make-believe.
+hyp:	a reconciliation between the two conflicting requirements is affected by a resort to make-believe.
+3575_170457_000010_000007(nwords=22,cor=21,ins=0,del=0,sub=1) corr:95.45%,cer:4.55%
+ref:	at first i could not say thy will be done. i felt rebellious, but i knew it was wrong to feel so.
+hyp:	at first i could not say, thy will be done. i felt rebellious, but i knew it was wrong to feel so.
+3575_170457_000015_000003(nwords=15,cor=14,ins=0,del=0,sub=1) corr:93.33%,cer:6.67%
+ref:	whoever, therefore, is ambitious of distinction in this way ought to be prepared for disappointment.
+hyp:	whoever, therefore, is ambitious of distinction in this way, ought to be prepared for disappointment.
+3575_170457_000016_000000(nwords=21,cor=21,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	but it is not with a view to distinction that you should cultivate this talent if you consult your own happiness.
+hyp:	but it is not with a view to distinction that you should cultivate this talent if you consult your own happiness.
+3575_170457_000024_000006(nwords=18,cor=18,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	my father is a clergyman of limited, though competent, income, and i am the eldest of his children.
+hyp:	my father is a clergyman of limited, though competent, income, and i am the eldest of his children.
+3575_170457_000024_000007(nwords=17,cor=17,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	he expended quite as much in my education as he could afford in justice to the rest.
+hyp:	he expended quite as much in my education as he could afford in justice to the rest.
+3575_170457_000024_000016(nwords=17,cor=17,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	that letter is consecrated. no one shall ever see it but papa and my brother and sisters.
+hyp:	that letter is consecrated. no one shall ever see it but papa and my brother and sisters.
+3575_170457_000031_000002(nwords=24,cor=22,ins=0,del=1,sub=1) corr:91.67%,cer:8.33%
+ref:	let me now request that if you ever should come to these lakes while i am living here, you will let me see you.
+hyp:	let me now request that if you ever should come to these lakes while i'm living here, you will let me see you.
+3575_170457_000044_000011(nwords=19,cor=18,ins=0,del=0,sub=1) corr:94.74%,cer:5.26%
+ref:	i am not good enough for you and you must be kept from the contamination of too intimate society.
+hyp:	i am not good enough for you, and you must be kept from the contamination of too intimate society.
+3575_170457_000046_000001(nwords=17,cor=15,ins=0,del=0,sub=2) corr:88.24%,cer:11.76%
+ref:	he refused at first to listen to the careful advice that was repugnant to his liberal nature.
+hyp:	he refused at first to listen to the careful advice. it was repugnant to his liberal nature.
+3575_170457_000046_000002(nwords=14,cor=9,ins=0,del=0,sub=5) corr:64.29%,cer:35.71%
+ref:	but mr. branwell persevered to economical motives, pressed on his love for his daughters,
+hyp:	but miss branwell persevered, urged economical motives pressed on his love for his daughters.
+3729_6852_000008_000001(nwords=12,cor=11,ins=4,del=0,sub=1) corr:91.67%,cer:41.67%
+ref:	she held her tongue. she told everybody that i was an imposter.
+hyp:	she held her tongue, but from that time she told everybody that i was an imposter.
+3729_6852_000068_000004(nwords=19,cor=18,ins=0,del=0,sub=1) corr:94.74%,cer:5.26%
+ref:	therefore it is not a paradox to say that the french would be wiser if they were less witty.
+hyp:	therefore, it is not a paradox to say that the french would be wiser if they were less witty.
+4077_13751_000019_000003(nwords=17,cor=15,ins=0,del=0,sub=2) corr:88.24%,cer:11.76%
+ref:	but tools were not wanting, and indeed they never have been, for murder and its kindred outrageous.
+hyp:	but tools were not wanting, as indeed they never have been, for murder and its kindred outrages.
+4077_13754_000003_000005(nwords=13,cor=12,ins=0,del=0,sub=1) corr:92.31%,cer:7.69%
+ref:	he was unjustly charged with favouring secession, but the charge was soon disproved.
+hyp:	he was unjustly charged with favoring secession, but the charge was soon disproved.
+4077_13754_000010_000002(nwords=15,cor=15,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	but mormonism died not. every added pang of grief served but to unite the people.
+hyp:	but mormonism died not. every added pang of grief served but to unite the people.
+4077_13754_000017_000001(nwords=16,cor=16,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	this statement assumes, as granted, a distinction between bigamy and the mormon institution of plural marriage.
+hyp:	this statement assumes, as granted, a distinction between bigamy and the mormon institution of plural marriage.
+4077_13754_000021_000002(nwords=18,cor=16,ins=0,del=0,sub=2) corr:88.89%,cer:11.11%
+ref:	and the world is learning, to its manifest surprise, that plural marriage and mormonism are not synonymous terms.
+hyp:	and the world is learning to its manifest surprise that plural marriage and mormonism are not synonymous terms.
+4077_13754_000023_000004(nwords=20,cor=17,ins=0,del=0,sub=3) corr:85.00%,cer:15.00%
+ref:	its creed provides for the protection of all men in the rites of worship according to the dictates of conscience.
+hyp:	its creed provides for the protection of all men and their rights of worship according to the dictates of conscience.
+4446_2271_000001_000006(nwords=19,cor=19,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	he had preconceived ideas about everything, and his idea about americans was that they should be engineers or mechanics.
+hyp:	he had preconceived ideas about everything, and his idea about americans was that they should be engineers or mechanics.
+4446_2271_000015_000004(nwords=20,cor=20,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	irene burgoyne, one of her family, told me in confidence that there was a romance somewhere back in the beginning.
+hyp:	irene burgoyne, one of her family, told me in confidence that there was a romance somewhere back in the beginning.
+4446_2271_000022_000010(nwords=18,cor=14,ins=0,del=0,sub=4) corr:77.78%,cer:22.22%
+ref:	i should torture myself. i couldn't help it after that. it was easy to forget actually to forget
+hyp:	i should torture myself. i couldn't help it. after that it was easy to forget. actually to forget.
+4446_2271_000023_000011(nwords=19,cor=18,ins=0,del=0,sub=1) corr:94.74%,cer:5.26%
+ref:	i shouldn't want her, but they've probably spoiled her, so that she'd be tiresome if one met her again.
+hyp:	i shouldn't want her, but they've probably spoiled her so that she'd be tiresome if one met her again.
+4446_2273_000001_000000(nwords=13,cor=13,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	on sunday afternoon, alexander remembered miss burgoyne's invitation and called at her apartment.
+hyp:	on sunday afternoon, alexander remembered miss burgoyne's invitation and called at her apartment.
+4446_2273_000001_000002(nwords=21,cor=17,ins=0,del=1,sub=3) corr:80.95%,cer:19.05%
+ref:	hilda lived alone, attended by a very pretty and competent french servant, who answered the door and brought in a tea.
+hyp:	hilda lived alone, attended by a very pretty, incompetent french servant, who answered the door and brought in the tea.
+4446_2273_000003_000002(nwords=24,cor=23,ins=0,del=0,sub=1) corr:95.83%,cer:4.17%
+ref:	for the rest of the week he was nervous and unsettled and kept rushing his work as if he were preparing for immediate departure.
+hyp:	for the rest of the week he was nervous and unsettled, and kept rushing his work as if he were preparing for immediate departure.
+4446_2273_000003_000003(nwords=18,cor=17,ins=0,del=0,sub=1) corr:94.44%,cer:5.56%
+ref:	on thursday afternoon, he cut short a committee meeting, jumped into a hanson, and drove to bedford square.
+hyp:	on thursday afternoon, he cut short a committee meeting, jumped into a handsome, and drove to bedford square.
+4446_2273_000014_000001(nwords=26,cor=26,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	i can't tell you how glad i am to have you so pretty and comfortable here, and to hear everyone saying such nice things about you.
+hyp:	i can't tell you how glad i am to have you so pretty and comfortable here, and to hear everyone saying such nice things about you.
+4446_2273_000015_000003(nwords=19,cor=18,ins=0,del=0,sub=1) corr:94.74%,cer:5.26%
+ref:	he's that gifted, you know, but he will drink and loses more good engagements than other fellows ever get."
+hyp:	he's that gifted, you know, but he will drink and loses more good engagements than other fellows ever get.
+4446_2273_000018_000000(nwords=19,cor=18,ins=0,del=0,sub=1) corr:94.74%,cer:5.26%
+ref:	it was a tiny room hung all around with french prints above which ran a shelf full of china.
+hyp:	it was a tiny room, hung all around with french prints above which ran a shelf full of china.
+4446_2273_000035_000000(nwords=20,cor=17,ins=0,del=0,sub=3) corr:85.00%,cer:15.00%
+ref:	they were both remembering what the woman had said. when she took the money, god gave you a happy love.
+hyp:	they were both remembering what the woman had said when she took the money. god give you a happy love.
+4446_2273_000035_000003(nwords=19,cor=16,ins=0,del=1,sub=2) corr:84.21%,cer:15.79%
+ref:	they went home sadly with the lilacs back to the rue saint jacques walking very slowly arm in arm.
+hyp:	they went home sadly with the lilacs, back to the rue saint-jean, walking very slowly arm in arm.
+4446_2273_000043_000002(nwords=17,cor=12,ins=0,del=0,sub=5) corr:70.59%,cer:29.41%
+ref:	most actresses nowadays learn to sing properly. so i tried a master, but he confused me just.
+hyp:	most actresses nowadays learn to sing properly, so i try to master. but he confused me just
+4446_2273_000045_000000(nwords=21,cor=18,ins=1,del=0,sub=3) corr:85.71%,cer:19.05%
+ref:	noda started up from the stool and moved restlessly toward the window. it's really too warm in this room to sing.
+hyp:	he'll distart it up from the stool and move restlessly toward the window. it's really too warm in this room to sing.
+4446_2273_000048_000001(nwords=18,cor=17,ins=0,del=0,sub=1) corr:94.44%,cer:5.56%
+ref:	he stood a little behind her and tried to steady himself as he said, it's soft and misty
+hyp:	he stood a little behind her and tried to steady himself as he said, it's soft and misty.
+4446_2275_000001_000001(nwords=20,cor=18,ins=0,del=0,sub=2) corr:90.00%,cer:10.00%
+ref:	the stealth at queenstown, the tedious passage up the mercy were things that he noted dimly through his growing impatience.
+hyp:	the stop at queenstown, the tedious passage up the mersey, were things that he noted dimly through his growing impatience.
+4446_2275_000002_000004(nwords=23,cor=20,ins=0,del=1,sub=2) corr:86.96%,cer:13.04%
+ref:	a cool fire was crackling in the grate and the lamps were lit, for it was already beginning to grow dark dark outside.
+hyp:	a coal fire was crackling in the grate, and the lamps were lit, for it was already beginning to grow dark outside.
+4446_2275_000009_000001(nwords=17,cor=17,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	she looked at his heavy shoulders and big, determined head thrust forward like a catapult in leash.
+hyp:	she looked at his heavy shoulders and big, determined head thrust forward like a catapult in leash.
+4446_2275_000016_000000(nwords=24,cor=23,ins=0,del=0,sub=1) corr:95.83%,cer:4.17%
+ref:	he rose and pushed the chair behind him, and began to walk miserably about the room, seeming to find it too small for him.
+hyp:	he rose and pushed the chair behind him and began to walk miserably about the room, seeming to find it too small for him.
+4446_2275_000018_000000(nwords=16,cor=13,ins=0,del=1,sub=2) corr:81.25%,cer:18.75%
+ref:	yet it hasn't always made you miserable, has it, her eyelids fell and her lips quivered?
+hyp:	it hasn't always made you miserable, has it?" her eyelids fell and her lips quivered.
+4446_2275_000023_000000(nwords=26,cor=21,ins=0,del=2,sub=3) corr:80.77%,cer:19.23%
+ref:	could you could you sit down and talk about it quietly bartley as if i were a friend and not someone who had to be defied
+hyp:	could you sit down and talk about it quietly, bartley, as if i were a friend and not someone who had to be defied?
+4446_2275_000030_000000(nwords=19,cor=10,ins=0,del=6,sub=3) corr:52.63%,cer:47.37%
+ref:	yes, i was happy, wasn't i? she pressed his hand. gently in gratitude, weren't you happy then at all?
+hyp:	yes, i was happy, wasn't i?" she pressed his hand gently in gratitude.
+4446_2275_000033_000000(nwords=19,cor=16,ins=0,del=0,sub=3) corr:84.21%,cer:15.79%
+ref:	yes, yes, she hurried, pulling her hand gently away from him presently, it stole back to his coat sleeve.
+hyp:	yes, yes, she hurried, pulling her hand gently away from him. presently it stole back to his colt sleeve.
+4446_2275_000038_000006(nwords=24,cor=21,ins=0,del=0,sub=3) corr:87.50%,cer:12.50%
+ref:	you want to tell me that you can only see me like this, as old friends do are out in the world among people.
+hyp:	you want to tell me that you can only see me like this, as old friends do, or out in the world among people?
+4446_2275_000040_000004(nwords=27,cor=27,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	what i mean is that i want you to promise never to see me again, no matter how often i come, no matter how hard i beg.
+hyp:	what i mean is that i want you to promise never to see me again, no matter how often i come, no matter how hard i beg.
+4446_2275_000046_000006(nwords=18,cor=16,ins=0,del=0,sub=2) corr:88.89%,cer:11.11%
+ref:	if i'd met you later, if i hadn't loved you so well, but that's all over, long ago.
+hyp:	if i'd met you later, if i hadn't loved you so well. but that's all over long ago.
+4446_2275_000047_000001(nwords=17,cor=14,ins=0,del=0,sub=3) corr:82.35%,cer:17.65%
+ref:	bartley bent over and took her in his arms kissing her mouth and her wet tired eyes
+hyp:	bartley bent over and took her in his arms, kissing her mouth and her wet, tired eyes.
+4507_16021_000022_000000(nwords=7,cor=4,ins=0,del=0,sub=3) corr:57.14%,cer:42.86%
+ref:	now, when is horror ever excluded study?
+hyp:	now when has horror ever excluded study
+4507_16021_000025_000005(nwords=12,cor=11,ins=0,del=0,sub=1) corr:91.67%,cer:8.33%
+ref:	they are tongues which have belonged to nations or provinces, but slang
+hyp:	they are tongues which have belonged to nations or provinces, but slang.
+4507_16021_000028_000004(nwords=13,cor=12,ins=0,del=0,sub=1) corr:92.31%,cer:7.69%
+ref:	does anyone think that larry has any fewer things to say than machiavelli?
+hyp:	does anyone think that alighieri has any fewer things to say than machiavelli?
+4507_16021_000030_000000(nwords=17,cor=17,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	man is not a circle with a single center. he is an ellipse with a double focus.
+hyp:	man is not a circle with a single center. he is an ellipse with a double focus.
+4507_16021_000031_000001(nwords=10,cor=6,ins=0,del=0,sub=4) corr:60.00%,cer:40.00%
+ref:	there it clothes itself in word masks and metaphor rags.
+hyp:	there it clothed itself in word masks, in metaphor rags,
+4507_16021_000034_000001(nwords=9,cor=9,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	it gnashes and whispers, completing the gloom with mystery.
+hyp:	it gnashes and whispers, completing the gloom with mystery.
+4507_16021_000035_000007(nwords=12,cor=11,ins=0,del=0,sub=1) corr:91.67%,cer:8.33%
+ref:	who knows whether man is not a recaptured offender against divine justice?
+hyp:	who knows whether man is not a recaptured offender against divine justice.
+4507_16021_000036_000007(nwords=15,cor=15,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	there is hardly one day out of a hundred which is wholly joyous and sunny.
+hyp:	there is hardly one day out of a hundred which is wholly joyous and sunny.
+4507_16021_000036_000009(nwords=11,cor=11,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	as for the rest of mankind, stagnating night rests upon them.
+hyp:	as for the rest of mankind, stagnating night rests upon them.
+4507_16021_000037_000001(nwords=11,cor=8,ins=1,del=0,sub=3) corr:72.73%,cer:36.36%
+ref:	in this world. evidently the vestibule of another, they're no fortunate.
+hyp:	in this world's evidently the vestibule of another, there are no fortunate
+4507_16021_000039_000000(nwords=10,cor=10,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	however, he who says light does not necessarily say joy.
+hyp:	however, he who says light does not necessarily say joy.
+4507_16021_000039_000003(nwords=12,cor=10,ins=0,del=0,sub=2) corr:83.33%,cer:16.67%
+ref:	to burn without ceasing to fly therein lies the marvel of genius
+hyp:	to burn without ceasing to fly, therein lies the marvel of genius.
+4970_29093_000017_000000(nwords=14,cor=8,ins=0,del=0,sub=6) corr:57.14%,cer:42.86%
+ref:	his pen therefore and whereas and not as aforesaid straight off into other scribbling
+hyp:	his pin, therefore, and whereas, and not as aforesaid, strayed off into other scribblings
+4970_29093_000020_000001(nwords=16,cor=16,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	it seemed to him that the newspaper managers didn't want genius, but mere plotting and grubbing.
+hyp:	it seemed to him that the newspaper managers didn't want genius, but mere plotting and grubbing.
+4970_29093_000028_000000(nwords=20,cor=19,ins=0,del=0,sub=1) corr:95.00%,cer:5.00%
+ref:	it was in this time of rather impatient waiting that philip was one morning walking down broadway with henry briarley.
+hyp:	it was in this time of rather impatient waiting that philip was one morning walking down broadway with henry brearley.
+4970_29093_000029_000000(nwords=19,cor=16,ins=0,del=0,sub=3) corr:84.21%,cer:15.79%
+ref:	the two were intimate at the time. they had been classmates and saw a great deal of each other.
+hyp:	the two were intimate at that time, they had been classmates, and saw a great deal of each other.
+4970_29093_000044_000000(nwords=23,cor=23,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	the night was spent in packing up and writing letters, for philip would not take such an important step without informing his friends.
+hyp:	the night was spent in packing up and writing letters, for philip would not take such an important step without informing his friends.
+4970_29093_000044_000002(nwords=18,cor=16,ins=0,del=1,sub=1) corr:88.89%,cer:11.11%
+ref:	happy youth that is ready to pack its ball eyes and start for cafe on an hour's notice.
+hyp:	happy youth that is ready to pack its valis and start for cafe on an hour's notice.
+4970_29093_000049_000001(nwords=19,cor=17,ins=2,del=0,sub=2) corr:89.47%,cer:21.05%
+ref:	he knew his uncle would be glad to hear. doubt at last turned his thoughts to a practical matter.
+hyp:	he knew his uncle would be glad to hear that he had at last turned his thoughts to a practical matter.
+4970_29093_000050_000006(nwords=15,cor=15,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	if he was unsuccessful, or if he never returned, perhaps it would be as well.
+hyp:	if he was unsuccessful, or if he never returned, perhaps it would be as well.
+4970_29095_000003_000006(nwords=18,cor=16,ins=0,del=0,sub=2) corr:88.89%,cer:11.11%
+ref:	whatever she thought she was now idly musing, as one might see by the expression of her face.
+hyp:	whatever she thought, she was not idly musing, as one might see by the expression of her face.
+4970_29095_000009_000000(nwords=18,cor=17,ins=0,del=0,sub=1) corr:94.44%,cer:5.56%
+ref:	if i must say it, mother, i want to go away and get out of this dead level.
+hyp:	if i must say it, mother, i want to go away and get out of this dead bubble.
+4970_29095_000015_000000(nwords=20,cor=19,ins=0,del=0,sub=1) corr:95.00%,cer:5.00%
+ref:	ruth turned square around to her mother, and with an impassive face and not the slightest change of tone, said,
+hyp:	ruth turned square round to her mother, and with an impassive face and not the slightest change of tone, said,
+4970_29095_000018_000002(nwords=14,cor=13,ins=0,del=0,sub=1) corr:92.86%,cer:7.14%
+ref:	and the lectures and the dissecting rooms. has he thought of the dissecting rooms?
+hyp:	and the lectures and the dissecting rooms. has thee thought of the dissecting rooms?
+4970_29095_000035_000000(nwords=21,cor=20,ins=0,del=0,sub=1) corr:95.24%,cer:4.76%
+ref:	that evening ruth and her father sat late by the drawing-room fire as they were quite apt to do at night.
+hyp:	that evening ruth and her father sat late by the drawing-room fire, as they were quite apt to do at night.
+4970_29095_000049_000000(nwords=12,cor=10,ins=0,del=0,sub=2) corr:83.33%,cer:16.67%
+ref:	i want to be something to make myself something to do something.
+hyp:	i want to be something, to make myself something, to do something.
+4970_29095_000049_000002(nwords=18,cor=18,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	what one useful thing could i do for a living for the support of mother and the children?
+hyp:	what one useful thing could i do for a living for the support of mother and the children?
+4970_29095_000051_000000(nwords=3,cor=2,ins=12,del=0,sub=1) corr:66.67%,cer:433.33%
+ref:	somewhat that depends."
+hyp:	somewhat that depends upon whether her children amount to anything," retorted the sharp little disputant.
+4970_29095_000054_000000(nwords=13,cor=12,ins=0,del=0,sub=1) corr:92.31%,cer:7.69%
+ref:	bruce did not reply directly. she complained that her mother didn't understand her.
+hyp:	ruth did not reply directly. she complained that her mother didn't understand her.
+4970_29095_000054_000001(nwords=18,cor=17,ins=0,del=0,sub=1) corr:94.44%,cer:5.56%
+ref:	but that wise and placid woman understood the sweet trouble a great deal better than ruth understood herself.
+hyp:	but that wise and placid woman understood the sweet rebel a great deal better than ruth understood herself.
+4992_23283_000033_000000(nwords=15,cor=14,ins=0,del=0,sub=1) corr:93.33%,cer:6.67%
+ref:	my lord, miss miller's taste is not a depraved one, it is but too refined.
+hyp:	my lord, miss milner's taste is not a depraved one, it is but too refined.
+4992_23283_000043_000001(nwords=20,cor=18,ins=0,del=0,sub=2) corr:90.00%,cer:10.00%
+ref:	to relieve her from both, he laid his hand with force upon his heart and said, ìdo you believe me?î
+hyp:	to relieve her from both, he laid his hand with force upon his heart and said, do you believe me?
+4992_41797_000015_000002(nwords=14,cor=13,ins=0,del=0,sub=1) corr:92.86%,cer:7.14%
+ref:	always irritable, cold, indifferent, he had grown rapidly more so as years went on.
+hyp:	always irritable, cold, indifferent. he had grown rapidly more so as years went on.
+4992_41797_000025_000005(nwords=16,cor=15,ins=2,del=0,sub=1) corr:93.75%,cer:18.75%
+ref:	she's older than i am, but so tiny and sad as she seems like a child.
+hyp:	she's older than i am, but so tiny and sad and shy that she seems like a child.
+4992_41797_000026_000000(nwords=18,cor=15,ins=0,del=1,sub=2) corr:83.33%,cer:16.67%
+ref:	have you ever lifted a stone and seen the pale, the always stunted shoots of grass under it?
+hyp:	have you ever lifted a stone and seen the pale yellow stunted shoots of grass under it?
+4992_41806_000009_000000(nwords=12,cor=11,ins=2,del=0,sub=1) corr:91.67%,cer:25.00%
+ref:	almost everything she says sounds like the bible or shakespeare to me.
+hyp:	don't know. most everything she says sounds like the bible or shakespeare to me.
+4992_41806_000010_000001(nwords=18,cor=14,ins=0,del=0,sub=4) corr:77.78%,cer:22.22%
+ref:	the nancy handed peter a loosely bound sheath, saying, to light this fire i give you a torch
+hyp:	then nancy handed peter a loosely bound sheaf, saying, ìto light this fire i give you a torch.î
+4992_41806_000020_000001(nwords=14,cor=11,ins=1,del=0,sub=3) corr:78.57%,cer:28.57%
+ref:	thou who sent us, the solitarian families, bless the life that is sheltered here.
+hyp:	thou who set us the solitary in families, bless the life that is sheltered here.
+4992_41806_000025_000001(nwords=16,cor=15,ins=0,del=0,sub=1) corr:93.75%,cer:6.25%
+ref:	approaching the dining table. he carefully placed the article in the center and removed the cloth.
+hyp:	approaching the dining table, he carefully placed the article in the center and removed the cloth.
+4992_41806_000034_000004(nwords=16,cor=11,ins=1,del=0,sub=5) corr:68.75%,cer:37.50%
+ref:	mother carrie played the dear old common-menner tune, and the voices rang out and whittiered him.
+hyp:	mother carrie played the dear old common meter tune and the voices rang out in whittier's hymn.
+5105_28233_000014_000000(nwords=19,cor=18,ins=0,del=0,sub=1) corr:94.74%,cer:5.26%
+ref:	and through a storm of shot, not one of which touched the prostrate officer the troop passed in safety.
+hyp:	and through a storm of shot, not one of which touched the prostrate officer, the troop passed in safety.
+5105_28240_000031_000000(nwords=13,cor=12,ins=9,del=0,sub=1) corr:92.31%,cer:76.92%
+ref:	i am not sure," said he, but what the tour of the world!
+hyp:	i am not sure," said he, but what the tour of the mediterranean will prove to be the tour of the world.
+5105_28241_000003_000001(nwords=11,cor=7,ins=5,del=0,sub=4) corr:63.64%,cer:81.82%
+ref:	her sea-going qualities were excellent. it was circumnavigation of the blow.
+hyp:	her sea-going qualities were excellent, and would have amply sufficed for a circumnavigation of the globe.
+5105_28241_000019_000004(nwords=18,cor=18,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	but algiers, like all the other coast towns, had apparently been absorbed into the bowels of the earth.
+hyp:	but algiers, like all the other coast towns, had apparently been absorbed into the bowels of the earth.
+5105_28241_000021_000000(nwords=14,cor=12,ins=0,del=0,sub=2) corr:85.71%,cer:14.29%
+ref:	is it not impossible, he murmured aloud, that any city should disappear so completely?
+hyp:	is it not impossible," he murmured aloud, that any city should disappear so completely
+5105_28241_000024_000000(nwords=20,cor=20,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	you must see, lieutenant, i should think, that we are not so near the coast of algeria as you imagined.
+hyp:	you must see, lieutenant, i should think, that we are not so near the coast of algeria as you imagined.
+5142_33396_000008_000000(nwords=21,cor=19,ins=0,del=0,sub=2) corr:90.48%,cer:9.52%
+ref:	this is my vow. i will sail to norway and i will harry the coast and fill my boat with riches.
+hyp:	this is my vow, i will sail to norway, and i will harry the coast and fill my boat with riches.
+5142_33396_000010_000000(nwords=15,cor=13,ins=8,del=0,sub=2) corr:86.67%,cer:66.67%
+ref:	but others jumped to their feet with their mead horns in their hands, thirty men.
+hyp:	but others jumped to their feet with their mead horns in their hands. thirty men, one after another, raised their horns and said,
+5142_33396_000039_000001(nwords=24,cor=23,ins=0,del=0,sub=1) corr:95.83%,cer:4.17%
+ref:	they set up a crane over the fire and hung the pot upon it and we sat and watched it boil while we joked.
+hyp:	they set up a crane over the fire and hung the pot upon it, and we sat and watched it boil while we joked.
+5142_33396_000053_000000(nwords=19,cor=17,ins=1,del=0,sub=2) corr:89.47%,cer:15.79%
+ref:	well, after we had been there for a long time, haken came into the feast one night and said,
+hyp:	well, after we had been there for a long time, hawkin came in to the feast one night and said,
+5142_36377_000008_000005(nwords=24,cor=20,ins=0,del=1,sub=3) corr:83.33%,cer:16.67%
+ref:	a little crack to that in the popular phrase was my impression of the stranger who now made his appearance in the supper room.
+hyp:	a little cracked. that, in the popular phrase, was my impression of the stranger who now made his appearance in the supper room.
+5142_36377_000010_000006(nwords=26,cor=26,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	they pointedly drew back from john iago as he approached the empty chair next to me and moved round to the opposite side of the table.
+hyp:	they pointedly drew back from john iago as he approached the empty chair next to me and moved round to the opposite side of the table.
+5142_36377_000014_000003(nwords=20,cor=20,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	she changed color for a moment and looked at him with a pretty reluctant tenderness as she took her chair.
+hyp:	she changed color for a moment and looked at him with a pretty reluctant tenderness as she took her chair.
+5142_36586_000011_000001(nwords=22,cor=21,ins=0,del=0,sub=1) corr:95.45%,cer:4.55%
+ref:	when an artery is tied, the lateral channels increase not only in diameter, but in the thickness and strength of their coats.
+hyp:	when an artery is tied, the lateral channels increase not only in diameter, but in the thickness and strength of their coat.
+5142_36586_000011_000002(nwords=17,cor=17,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	when one kidney ceases to act from disease, the other increases in size and does double work.
+hyp:	when one kidney ceases to act from disease, the other increases in size and does double work.
+5142_36600_000007_000007(nwords=14,cor=14,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	the races differ also in constitution, in acclimatization, and in liability to certain diseases.
+hyp:	the races differ also in constitution, in acclimatization, and in liability to certain diseases.
+5639_40744_000003_000001(nwords=24,cor=22,ins=0,del=0,sub=2) corr:91.67%,cer:8.33%
+ref:	rodolfo was now impatient to get rid of laicatia and made up his mind to lay her in the street, insensible as she was.
+hyp:	rudolfo was now impatient to get rid of leucadia, and made up his mind to lay her in the street, insensible as she was.
+5639_40744_000026_000006(nwords=22,cor=22,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	if my wife brings me this, i will thank heaven for the gift and make my parents happy in their old age.
+hyp:	if my wife brings me this, i will thank heaven for the gift and make my parents happy in their old age.
+5639_40744_000027_000002(nwords=18,cor=16,ins=0,del=0,sub=2) corr:88.89%,cer:11.11%
+ref:	rodolfo thanked her, and supper being ready, they went to join the rest of a party at table.
+hyp:	rodolfo thanked her and supper being ready, they went to join the rest of the party at table.
+5683_32865_000006_000000(nwords=16,cor=16,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	the churchyard meteor expired. there was nothing in a moment but his ordinary smile of recognition.
+hyp:	the churchyard meteor expired. there was nothing in a moment but his ordinary smile of recognition.
+5683_32865_000016_000002(nwords=14,cor=12,ins=0,del=0,sub=2) corr:85.71%,cer:14.29%
+ref:	it is such a darling little thing, and look now is not it magnificent?"
+hyp:	it is such a darling little thing, and look now, is not it magnificent?
+5683_32865_000021_000001(nwords=12,cor=9,ins=1,del=0,sub=3) corr:75.00%,cer:33.33%
+ref:	i see to be surely wilder. it does your taste infinite credit.
+hyp:	i see. to be sure, really, wilder, it does your taste infinite credit.
+5683_32865_000022_000000(nwords=14,cor=13,ins=0,del=0,sub=1) corr:92.86%,cer:7.14%
+ref:	i'm glad you like it," says wilder, chuckling benignly on it, over his shoulder.
+hyp:	i'm glad you like it," says wilder, chuckling benignly on it over his shoulder.
+5683_32865_000028_000000(nwords=16,cor=13,ins=0,del=0,sub=3) corr:81.25%,cer:18.75%
+ref:	wilder was laughing rather readily with the upper part of his face, very surly, i thought,
+hyp:	wilder was laughing rather readily, with the upper part of his face very surly, i thought.
+5683_32865_000030_000000(nwords=15,cor=13,ins=0,del=0,sub=2) corr:86.67%,cer:13.33%
+ref:	whereupon lake laughed quietly, still looking on the ease of hearts of his sly eyes.
+hyp:	whereupon lake laughed quietly, still looking on the ace of hearts with his sly eyes.
+5683_32865_000034_000001(nwords=16,cor=15,ins=0,del=0,sub=1) corr:93.75%,cer:6.25%
+ref:	it can't be for money or balls or clay. and he has no honest business anywhere.
+hyp:	it can't be for money or balls or play, and he has no honest business anywhere.
+5683_32865_000038_000002(nwords=20,cor=20,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	i took a dislike to him at first sight long ago, and that never happened me, but i was right.
+hyp:	i took a dislike to him at first sight long ago, and that never happened me, but i was right.
+5683_32865_000045_000000(nwords=21,cor=12,ins=0,del=2,sub=7) corr:57.14%,cer:42.86%
+ref:	i believe charlie yeeve charlie he recommends suddenly there is not such an unnatural family on record as ours is there
+hyp:	i believe, charlie," he recommenced suddenly, "'there is not such an unnatural family on record as ours, is there?'
+5683_32866_000016_000002(nwords=16,cor=16,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	she was so unreserved, it seemed, and yet in this directness there was something almost contemptuous.
+hyp:	she was so unreserved, it seemed, and yet in this directness there was something almost contemptuous.
+5683_32866_000028_000000(nwords=17,cor=14,ins=1,del=0,sub=3) corr:82.35%,cer:23.53%
+ref:	"'it is very happy, for at least they are not,' said rachel, and a long silence ensued
+hyp:	it is very happy, for her at least they are not," said rachel, and a long silence ensued.
+5683_32866_000039_000005(nwords=16,cor=14,ins=0,del=0,sub=2) corr:87.50%,cer:12.50%
+ref:	whatever you meditate, he probably anticipates that you know best and you will find him prepared.
+hyp:	whatever you meditate, he probably anticipates it. you know best, and you will find him prepared.
+5683_32866_000039_000007(nwords=15,cor=10,ins=0,del=0,sub=5) corr:66.67%,cer:33.33%
+ref:	you are always the same close dark and crooked and wise in your own conceit
+hyp:	you were always the same, close, dark and crooked, and wise in your own conceits.
+5683_32866_000047_000008(nwords=12,cor=7,ins=0,del=1,sub=4) corr:58.33%,cer:41.67%
+ref:	the somber old trees. like i get hearst plumes. black and awful.
+hyp:	the somber old trees, like gigantic hearse plumes, black and awful.
+5683_32879_000014_000002(nwords=17,cor=17,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	you have been more ill than i thought, darling, and you are still far from quite recovered.
+hyp:	you have been more ill than i thought, darling, and you are still far from quite recovered.
+5683_32879_000015_000000(nwords=14,cor=13,ins=0,del=0,sub=1) corr:92.86%,cer:7.14%
+ref:	rachel's pale and sharpened features and dilated eyes struck her with a painful surprise.
+hyp:	rachel's pale and sharpened features and dilated eye struck her with a painful surprise.
+5683_32879_000016_000000(nwords=19,cor=18,ins=0,del=0,sub=1) corr:94.74%,cer:5.26%
+ref:	i shall soon be as well as i am ever likely to be, that is quite well," answered rachel.
+hyp:	i shall soon be as well as i am ever likely to be. that is quite well," answered rachel.
+5683_32879_000029_000001(nwords=21,cor=8,ins=3,del=0,sub=13) corr:38.10%,cer:76.19%
+ref:	i meant to speak to him. i meant to speak to him, and an end all between us to his letters.
+hyp:	i meant to speak to him, and end all between us, and i would now write, but there is no address to his letters.
+5683_32879_000040_000000(nwords=9,cor=6,ins=6,del=0,sub=3) corr:66.67%,cer:100.00%
+ref:	while i lost your love for asking support kindness
+hyp:	dorcas, you are changed. have i lost your love for asking so poor a kindness?
+5683_32879_000042_000002(nwords=22,cor=19,ins=0,del=0,sub=3) corr:86.36%,cer:13.64%
+ref:	i have very few to love me now and i thought you might love me as i have begun to love you
+hyp:	i have very few to love me now, and i thought you might love me, as i have begun to love you.
+5683_32879_000043_000000(nwords=17,cor=15,ins=0,del=0,sub=2) corr:88.24%,cer:11.76%
+ref:	and she threw her arms around her cousin's neck and brave rachel at last burst into tears.
+hyp:	and she threw her arms round her cousin's neck, and brave rachel at last burst into tears.
+5683_32879_000046_000002(nwords=12,cor=10,ins=7,del=0,sub=2) corr:83.33%,cer:75.00%
+ref:	thank you from my heart for your love, you will never know.
+hyp:	thank you from my heart for your love. you will never know, perhaps, how much it is to me.
+672_122797_000002_000002(nwords=16,cor=15,ins=0,del=0,sub=1) corr:93.75%,cer:6.25%
+ref:	what a nice little fur. but this was what the tree could not bear to hear.
+hyp:	what a nice little fur!" but this was what the tree could not bear to hear.
+6829_68769_000005_000004(nwords=17,cor=17,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	so this boy was doubly foolish in ruining himself to get $60 to pay an unjust demand.
+hyp:	so this boy was doubly foolish in ruining himself to get $60 to pay an unjust demand.
+6829_68769_000006_000000(nwords=18,cor=18,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	he was soft-hearted and impetuous, said beth, and being in love he didn't stop to count the cost.
+hyp:	he was soft-hearted and impetuous, said beth, and being in love he didn't stop to count the cost.
+6829_68769_000012_000001(nwords=12,cor=12,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	he was a round-faced, respectable-appearing fellow, but his mood was distinctly unsociable.
+hyp:	he was a round-faced, respectable-appearing fellow, but his mood was distinctly unsociable.
+6829_68769_000030_000000(nwords=15,cor=14,ins=1,del=0,sub=1) corr:93.33%,cer:13.33%
+ref:	then he deliberately locked kenneth and bethan with the forger and retreated along the passage.
+hyp:	then he deliberately locked kenneth and beth in with the forger and retreated along the passage.
+6829_68769_000036_000001(nwords=23,cor=22,ins=0,del=0,sub=1) corr:95.65%,cer:4.35%
+ref:	he was of sturdy, athletic build and dressed neatly in a suit that was of coarse material, but well brushed and cared for.
+hyp:	he was of sturdy, athletic build, and dressed neatly in a suit that was of coarse material, but well brushed and cared for.
+6829_68769_000051_000002(nwords=17,cor=17,ins=4,del=0,sub=0) corr:100.00%,cer:23.53%
+ref:	then rogers wouldn't do anything but lead upon her, and the place went to rack and ruin.
+hyp:	then rogers wouldn't do anything but lead her around and wait upon her, and the place went to rack and ruin.
+6829_68769_000053_000000(nwords=19,cor=17,ins=0,del=0,sub=2) corr:89.47%,cer:10.53%
+ref:	rissy could have looked after her mother," said young bates, but old wool was stubborn and wouldn't let her.
+hyp:	lucy could have looked after her mother," said young bates, but old will was stubborn and wouldn't let her.
+6829_68769_000063_000001(nwords=23,cor=21,ins=0,del=0,sub=2) corr:91.30%,cer:8.70%
+ref:	it won't be much, but i'm grateful to find a friend i'm guilty, you know. and there's no one to blame but myself.
+hyp:	it won't be much, but i'm grateful to find a friend. i'm guilty, you know, and there's no one to blame but myself.
+6829_68769_000073_000000(nwords=18,cor=17,ins=0,del=0,sub=1) corr:94.44%,cer:5.56%
+ref:	i've been bothered already over your election campaign," resumed the manager, arranging his papers in a bored manner.
+hyp:	i've been bothered already over your election campaign, resumed the manager, arranging his papers in a bored manner.
+6829_68769_000073_000002(nwords=20,cor=20,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	you may as well understand, sir, that i stand for the democratic candidate and have no sympathy with your side.
+hyp:	you may as well understand, sir, that i stand for the democratic candidate and have no sympathy with your side.
+6829_68769_000074_000000(nwords=8,cor=6,ins=6,del=0,sub=2) corr:75.00%,cer:100.00%
+ref:	that doesn't interest me—especially, sir," answered kenneth, smiling.
+hyp:	that doesn't interest me especially, sir, answered kenneth, smiling. i'm not electioneering just now.
+6829_68769_000086_000001(nwords=20,cor=18,ins=0,del=1,sub=1) corr:90.00%,cer:10.00%
+ref:	i'll pay twice sixty dollars for the delivery to me of the forged check and the withdrawal of the prosecution.
+hyp:	i'll pay twice $60 for the delivery to me of the forged check and the withdrawal of the prosecution.
+6829_68769_000091_000001(nwords=20,cor=15,ins=0,del=1,sub=4) corr:75.00%,cer:25.00%
+ref:	give me a check for $150 and i'll turn over to you. the forged check and quash for the proceedings.
+hyp:	give me a check for 150 and i'll turn over to you the forge check and quash further proceedings.
+6829_68769_000100_000001(nwords=19,cor=14,ins=1,del=4,sub=1) corr:73.68%,cer:31.58%
+ref:	and think we can save all that misery and despair by the payment of a hundred and fifty dollars.
+hyp:	and to think we can save all that misery and despair by the payment of $150.
+6829_68771_000010_000007(nwords=14,cor=12,ins=0,del=0,sub=2) corr:85.71%,cer:14.29%
+ref:	this trading of oats was often done, was considered by the politicians quite legitimate.
+hyp:	this trading votes, which was often done, was considered by the politicians quite legitimate.
+6829_68771_000010_000008(nwords=14,cor=14,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	the only thing necessary was to fix seth reynolds, and this hopkins arranged personally.
+hyp:	the only thing necessary was to fix seth reynolds, and this hopkins arranged personally.
+6829_68771_000012_000001(nwords=17,cor=17,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	every scheme known to politicians must be worked, and none knew the intricate game better than hopkins.
+hyp:	every scheme known to politicians must be worked, and none knew the intricate game better than hopkins.
+6829_68771_000012_000002(nwords=17,cor=17,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	this was why he held several long conferences with his friend marshall, the manager at the mill.
+hyp:	this was why he held several long conferences with his friend marshall, the manager at the mill.
+6829_68771_000012_000003(nwords=16,cor=14,ins=1,del=0,sub=2) corr:87.50%,cer:18.75%
+ref:	and this was why kenneth, beth, discovered him conversing with the young woman in the buggy.
+hyp:	and this was why kenneth and beth discovered him conversing with the young woman in the buggy.
+6829_68771_000015_000000(nwords=12,cor=12,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	patsy and beth supported their cousin loyally and assisted in the preparations.
+hyp:	patsy and beth supported their cousin loyally and assisted in the preparations.
+6829_68771_000018_000000(nwords=16,cor=14,ins=0,del=0,sub=2) corr:87.50%,cer:12.50%
+ref:	the gardens and grounds were gaily decorated with chinese and japanese lanterns, streamers and forged banners.
+hyp:	the gardens and grounds were gaily decorated with chinese and japanese lanterns, streamers, and forbes banners.
+6829_68771_000035_000000(nwords=20,cor=19,ins=0,del=0,sub=1) corr:95.00%,cer:5.00%
+ref:	for the first time the maid seemed a little confused, and her gaze wandered from the face of her visitor.
+hyp:	for the first time, the maid seemed a little confused, and her gaze wandered from the face of her visitor.
+6829_68771_000039_000000(nwords=19,cor=19,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	she sat down in a rocking chair and clasping her hands in her lap, rocked slowly back and forth.
+hyp:	she sat down in a rocking chair and clasping her hands in her lap, rocked slowly back and forth.
+6829_68771_000044_000003(nwords=16,cor=16,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	her manner was neither independent nor assertive, but rather one of well-bred composure and calm reliance.
+hyp:	her manner was neither independent nor assertive, but rather one of well-bred composure and calm reliance.
+6829_68771_000044_000004(nwords=21,cor=20,ins=0,del=0,sub=1) corr:95.24%,cer:4.76%
+ref:	beth felt that she was intruding and knew that she ought to go. yet some fascination held her to the spot.
+hyp:	beth felt that she was intruding and knew that she ought to go, yet some fascination held her to the spot.
+6829_68771_000044_000006(nwords=17,cor=15,ins=0,del=0,sub=2) corr:88.24%,cer:11.76%
+ref:	however her features and form might repress any evidence of nervousness, these hands told a different story.
+hyp:	however, her features and form might repress any evidence of nervousness. these hands told a different story.
+6829_68771_000046_000001(nwords=17,cor=17,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	she rose quickly to her feet with an impetuous gesture that made her visitor catch her breath.
+hyp:	she rose quickly to her feet with an impetuous gesture that made her visitor catch her breath.
+6930_76324_000005_000001(nwords=20,cor=17,ins=0,del=0,sub=3) corr:85.00%,cer:15.00%
+ref:	i thought you were stunt again when i first saw that picture. but it's been of some use after all.
+hyp:	i thought we were stumped again when i first saw that picture, but it's been of some use after all.
+6930_76324_000026_000003(nwords=15,cor=10,ins=1,del=0,sub=5) corr:66.67%,cer:40.00%
+ref:	i guess touching soft on the instant joyce was at her side with a candle
+hyp:	i just touched something soft. on the instant, joyce was at her side with a candle.
+6930_81414_000014_000003(nwords=18,cor=17,ins=0,del=0,sub=1) corr:94.44%,cer:5.56%
+ref:	he did not beckon, or indeed move at all. it was as still as the hand of death.
+hyp:	it did not beckon, or indeed move at all. it was as still as the hand of death.
+7021_79730_000053_000000(nwords=20,cor=20,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	in respect to her statement that she was going to the doctors, it may or may not have been true.
+hyp:	in respect to her statement that she was going to the doctors, it may or may not have been true.
+7021_79740_000011_000000(nwords=11,cor=11,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	then, turning to jane, she asked, in a somewhat altered tone,
+hyp:	then, turning to jane, she asked, in a somewhat altered tone,
+7021_79740_000020_000000(nwords=13,cor=10,ins=0,del=0,sub=3) corr:76.92%,cer:23.08%
+ref:	there," said she, pointing to the playthings, see, all your playthings left out.
+hyp:	there!" said she, pointing to the playthings. see! all your playthings left out.
+7021_79740_000020_000003(nwords=19,cor=19,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	they would think that they might do so too, and that would make you a great deal of trouble.
+hyp:	they would think that they might do so too, and that would make you a great deal of trouble.
+7021_79740_000021_000000(nwords=15,cor=15,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	so the children went to work with great alacrity and put the playthings all away.
+hyp:	so the children went to work with great alacrity and put the playthings all away.
+7021_85628_000002_000000(nwords=16,cor=14,ins=0,del=0,sub=2) corr:87.50%,cer:12.50%
+ref:	once upon a time there was a little boy called anders who had a new cap.
+hyp:	once upon a time, there was a little boy called anders, who had a new cap.
+7021_85628_000005_000000(nwords=20,cor=19,ins=0,del=0,sub=1) corr:95.00%,cer:5.00%
+ref:	the first person he met was a farm laborer walking alongside a load of peat and smacking at his horse.
+hyp:	the first person he met was a farm laborer, walking alongside a load of peat and smacking at his horse.
+7021_85628_000009_000000(nwords=14,cor=13,ins=0,del=0,sub=1) corr:92.86%,cer:7.14%
+ref:	let's swap cats, he said, and i will give you my jackknife to boot.
+hyp:	let's swap caps," he said, and i will give you my jackknife to boot.
+7021_85628_000021_000001(nwords=17,cor=15,ins=0,del=0,sub=2) corr:88.24%,cer:11.76%
+ref:	for, like his knot, they must have thought him a prince when they saw his fine cap.
+hyp:	for, like as not, they must have thought him a prince when they saw his fine cap.
+7021_85628_000025_000000(nwords=16,cor=15,ins=0,del=0,sub=1) corr:93.75%,cer:6.25%
+ref:	well, well, give it to me," said the princess, and i will give you a kiss.
+hyp:	well, well, give it to me, said the princess, and i will give you a kiss.
+7021_85628_000034_000001(nwords=18,cor=16,ins=0,del=1,sub=1) corr:88.89%,cer:11.11%
+ref:	he sat as before and held on to his red cap, which everybody was so anxious to get.
+hyp:	he sat as before and held onto his red cap, which everybody was so anxious to get.
+7021_85628_000035_000001(nwords=17,cor=16,ins=0,del=0,sub=1) corr:94.12%,cer:5.88%
+ref:	he darted like an arrow through all the halls, down all the stairs and across the yard.
+hyp:	he darted like an arrow through all the halls, down all the stairs, and across the yard.
+7127_75946_000002_000001(nwords=16,cor=14,ins=5,del=0,sub=2) corr:87.50%,cer:43.75%
+ref:	as for ballet itself, every person knew the part, he acted in how to perform it.
+hyp:	as for the ballet itself, every person knew the part he had to take in it and how to perform it.
+7127_75946_000016_000000(nwords=20,cor=19,ins=0,del=0,sub=1) corr:95.00%,cer:5.00%
+ref:	well, sire, the colored lamps, the fireworks, the musicians, and the cooks have swallowed up four millions in eight days.
+hyp:	well, sire, the colored lamps, the fireworks, the musicians and the cooks have swallowed up four millions in eight days.
+7127_75946_000033_000000(nwords=17,cor=12,ins=1,del=0,sub=5) corr:70.59%,cer:35.29%
+ref:	i reserve this for a better occasion, and believe me, it will only be the better appreciated
+hyp:	i reserve your services for a better occasion and, believe me, they will only be the better appreciated.
+7127_75946_000040_000004(nwords=13,cor=11,ins=0,del=0,sub=2) corr:84.62%,cer:15.38%
+ref:	the music hot boys, flutes, and vials was delightfully descriptive of rural delights.
+hyp:	the music, hot boys, flutes, and viols, was delightfully descriptive of rural delights.
+7127_75946_000040_000006(nwords=18,cor=17,ins=0,del=0,sub=1) corr:94.44%,cer:5.56%
+ref:	he was dressed in a tunic of flowers which set off his graceful and well-formed figure to advantage.
+hyp:	he was dressed in a tunic of flowers, which set off his graceful and well-formed figure to advantage.
+7127_75946_000041_000001(nwords=15,cor=14,ins=0,del=0,sub=1) corr:93.33%,cer:6.67%
+ref:	the applause continued so long that the conch had ample leisure to join the king.
+hyp:	the applause continued so long that the count had ample leisure to join the king.
+7127_75946_000045_000000(nwords=17,cor=15,ins=0,del=0,sub=2) corr:88.24%,cer:11.76%
+ref:	far from it, sire, your majesty having given no directions about it, the musicians have retained it.
+hyp:	far from it, sire. your majesty, having given no directions about it, the musicians have retained it.
+7127_75946_000058_000000(nwords=13,cor=12,ins=0,del=0,sub=1) corr:92.31%,cer:7.69%
+ref:	every word fell distinctly in perfect harmony and eloquence upon louis xiv's ears.
+hyp:	every word fell distinctly in perfect harmony and eloquence upon louise xiv's ears.
+7127_75947_000006_000000(nwords=17,cor=16,ins=0,del=0,sub=1) corr:94.12%,cer:5.88%
+ref:	the king remained for a moment to enjoy a triumph as complete as it could possibly be
+hyp:	the king remained for a moment to enjoy a triumph as complete as it could possibly be.
+7127_75947_000006_000009(nwords=15,cor=13,ins=1,del=0,sub=2) corr:86.67%,cer:20.00%
+ref:	gagitch, observing that she was alone near a thicket constructed of painted cloth, approached her.
+hyp:	de guiche, observing that she was alone, near a thicket constructed of painted cloth, approached her.
+7127_75947_000007_000000(nwords=13,cor=11,ins=0,del=0,sub=2) corr:84.62%,cer:15.38%
+ref:	upon this madame deigned to turn her eyes, languishingly towards the comte, observing
+hyp:	upon this, madame deigned to turn her eyes languishingly towards the comte, observing
+7127_75947_000010_000000(nwords=15,cor=14,ins=0,del=0,sub=1) corr:93.33%,cer:6.67%
+ref:	yes, the character which your royal highness assumed is in perfect harmony with your own
+hyp:	yes, the character which your royal highness assumed is in perfect harmony with your own.
+7127_75947_000034_000000(nwords=17,cor=16,ins=0,del=0,sub=1) corr:94.12%,cer:5.88%
+ref:	there cannot be a doubt he received you kindly, for in fact he returned without his permission.
+hyp:	there cannot be a doubt he received you kindly, for in fact you returned without his permission.
+7127_75947_000071_000000(nwords=14,cor=14,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	yes, but if she should have understood, and understood too well, she may talk.
+hyp:	yes, but if she should have understood, and understood too well, she may talk.
+7127_75947_000082_000005(nwords=20,cor=18,ins=0,del=0,sub=2) corr:90.00%,cer:10.00%
+ref:	the three young girls on their side reached the outskirts of the park, every path of which they well knew.
+hyp:	the three young girls, on their side, reached the outskirts of the park, every path of which they well knew.
+7176_88083_000002_000004(nwords=18,cor=18,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	moreover, he was not in the situation or the surroundings which one is wont to associate with ducks.
+hyp:	moreover, he was not in the situation or the surroundings which one is wont to associate with ducks.
+7176_88083_000004_000000(nwords=20,cor=20,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	the duck was a handsome male of the red-breasted merganser family, and the absorbing interest of his life was fish.
+hyp:	the duck was a handsome male of the red-breasted merganser family, and the absorbing interest of his life was fish.
+7176_88083_000004_000002(nwords=17,cor=16,ins=0,del=0,sub=1) corr:94.12%,cer:5.88%
+ref:	here, where the north fork stream fell into the odontes, was a resort exactly to his liking.
+hyp:	here, where the north fork stream fell into the odenunsis, was a resort exactly to his liking.
+7176_88083_000006_000003(nwords=16,cor=15,ins=0,del=0,sub=1) corr:93.75%,cer:6.25%
+ref:	but here he was at a terrible disadvantage, as compared with the owls, hawks, and eagles.
+hyp:	but here he was at a terrible disadvantage as compared with the owls, hawks, and eagles.
+7176_88083_000006_000005(nwords=21,cor=21,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	had he taken such a prize, he could not have profited by it, having no means of tearing it to pieces.
+hyp:	had he taken such a prize, he could not have profited by it, having no means of tearing it to pieces.
+7176_88083_000010_000002(nwords=18,cor=16,ins=0,del=0,sub=2) corr:88.89%,cer:11.11%
+ref:	for all its appalling speed, the sound of his flight was nothing more than a strong pulsating hiss.
+hyp:	for all its appalling speed, the sound of his fight was nothing more than a strong, pulsating hiss.
+7176_88083_000011_000005(nwords=18,cor=18,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	it was enough, however, and the unhappy teal was hurled earthward, flapping through the tips of the branches.
+hyp:	it was enough, however, and the unhappy teal was hurled earthward, flapping through the tips of the branches.
+7176_88083_000012_000000(nwords=19,cor=19,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	as it chanced, however, the victim came down with a thud almost beneath the whiskered nose of the wildcat.
+hyp:	as it chanced, however, the victim came down with a thud almost beneath the whiskered nose of the wildcat.
+7176_88083_000012_000005(nwords=19,cor=19,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	the cat growled softly, picked up the prize in her jaws, and trotted into the bushes to devour it.
+hyp:	the cat growled softly, picked up the prize in her jaws, and trotted into the bushes to devour it.
+7176_88083_000013_000002(nwords=19,cor=15,ins=0,del=0,sub=4) corr:78.95%,cer:21.05%
+ref:	happily for him, he on his part cut sight of the hawk and dropped like lead into the torrent.
+hyp:	happily for him, he, on his part, caught sight of the hawk, and dropped like lead into the torrent.
+7176_88083_000015_000003(nwords=19,cor=15,ins=0,del=0,sub=4) corr:78.95%,cer:21.05%
+ref:	with only head and wings above the mad's mother, he fleight onward frantically, beating down the foam about him.
+hyp:	with only head and wings above the mad smother, he flapped onward frantically, beating down the home about him.
+7176_88083_000017_000005(nwords=16,cor=15,ins=0,del=0,sub=1) corr:93.75%,cer:6.25%
+ref:	where the waves for an instant sank, they came closer, but not quite within grasping reach.
+hyp:	where the waves for an instant sank they came closer, but not quite within grasping reach.
+7176_88083_000017_000006(nwords=16,cor=15,ins=0,del=0,sub=1) corr:93.75%,cer:6.25%
+ref:	the morato from the upper air was waiting till his quarry should reach less turbulent waters.
+hyp:	the marauder from the upper air was waiting till his quarry should reach less turbulent waters.
+7176_88083_000018_000000(nwords=19,cor=17,ins=0,del=0,sub=2) corr:89.47%,cer:10.53%
+ref:	a few yards further on, the torrent fell seething over a long ledge into a pool of brief quiet.
+hyp:	a few yards further on the torrent fell seething over a long ledge into a pool of brief quiet
+7176_88083_000018_000003(nwords=21,cor=20,ins=0,del=0,sub=1) corr:95.24%,cer:4.76%
+ref:	the wiley drake had plunged with the plunge of the fall itself and was now darting onward at a safe depth.
+hyp:	the wily drake had plunged with the plunge of the fall itself and was now darting onward at a safe depth.
+7176_88083_000022_000000(nwords=19,cor=18,ins=0,del=0,sub=1) corr:94.74%,cer:5.26%
+ref:	just as he made his cast. he saw the fleeing drake and the pursuing hawk come round the bend.
+hyp:	just as he made his cast, he saw the fleeing drake and the pursuing hawk come round the bend.
+7176_88083_000023_000004(nwords=18,cor=18,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	the drag upon his beak and the light check upon his wings were inexplicable to him, and appalling.
+hyp:	the drag upon his beak and the light check upon his wings were inexplicable to him, and appalling.
+7176_88083_000024_000003(nwords=18,cor=16,ins=0,del=0,sub=2) corr:88.89%,cer:11.11%
+ref:	he dived and caught it, came to the surface and swallowed it much refreshed. he looked about him.
+hyp:	he dived and caught it, came to the surface and swallowed it. much refreshed, he looked about him.
+7176_92135_000004_000002(nwords=24,cor=24,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	it was an unsatisfying life, and when rash acquaintances asked him what he did, he used to say that he was for the bar.
+hyp:	it was an unsatisfying life, and when rash acquaintances asked him what he did, he used to say that he was for the bar.
+7176_92135_000006_000006(nwords=21,cor=21,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	can you give me a few hints? suppose you spoke to me like this, then i could do something for you.
+hyp:	can you give me a few hints? suppose you spoke to me like this, then i could do something for you.
+7176_92135_000012_000003(nwords=21,cor=21,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	of course, a really good actor can often give a clue to the feelings of a character simply by facial expression.
+hyp:	of course, a really good actor can often give a clue to the feelings of a character simply by facial expression.
+7176_92135_000018_000000(nwords=21,cor=19,ins=0,del=0,sub=2) corr:90.48%,cer:9.52%
+ref:	and so on till you get to the end when ophelia might say, ah yes, or something noncommittal of that sort.
+hyp:	and so on, till you get to the end when ophelia might say, ah yes, or something non-committal of that sort.
+7176_92135_000018_000002(nwords=22,cor=22,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	what you want is to make it clear that you are conveying hamlet's thoughts to the audience in rather a clever manner.
+hyp:	what you want is to make it clear that you are conveying hamlet's thoughts to the audience in rather a clever manner.
+7176_92135_000055_000000(nwords=24,cor=24,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	the answer to this will depend upon the length of the play, for upon the length depends the hour at which the curtain rises.
+hyp:	the answer to this will depend upon the length of the play, for upon the length depends the hour at which the curtain rises.
+7176_92135_000056_000002(nwords=19,cor=17,ins=0,del=1,sub=1) corr:89.47%,cer:10.53%
+ref:	then the curtain rises and it is apparent that we are assisting at an at home of considerable splendor.
+hyp:	then the curtain rises and it is apparent that we are assisting at an at-home of considerable splendor.
+7176_92135_000070_000002(nwords=17,cor=16,ins=0,del=0,sub=1) corr:94.12%,cer:5.88%
+ref:	let your actors have tea by all means, but see that it is a properly histrionic tea.
+hyp:	let your actors have tea, by all means, but see that it is a properly histrionic tea.
+7729_102255_000010_000014(nwords=18,cor=18,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	they were not only well armed and supplied, but wrought up to the highest pitch of partisan excitement.
+hyp:	they were not only well armed and supplied, but wrought up to the highest pitch of partisan excitement.
+7729_102255_000012_000001(nwords=15,cor=15,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	the people of lawrence, without any great difficulty, obtained daily information concerning the hostile camps.
+hyp:	the people of lawrence, without any great difficulty, obtained daily information concerning the hostile camps.
+7729_102255_000012_000007(nwords=15,cor=15,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	with the advantage of its defensive position, lawrence was as strong as the sheriff's mob.
+hyp:	with the advantage of its defensive position, lawrence was as strong as the sheriff's mob.
+7729_102255_000012_000011(nwords=13,cor=11,ins=0,del=1,sub=1) corr:84.62%,cer:15.38%
+ref:	the missouri backwoods men manifested an almost incredible interest in this wonderful gun.
+hyp:	the missouri backwoodsman manifested an almost incredible interest in this wonderful gun.
+7729_102255_000016_000002(nwords=13,cor=13,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	the firm defensive attitude of the people of lawrence had produced its effect.
+hyp:	the firm defensive attitude of the people of lawrence had produced its effect.
+7729_102255_000016_000003(nwords=14,cor=14,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	the leaders of the conspiracy became distrustful of their power to crush the town.
+hyp:	the leaders of the conspiracy became distrustful of their power to crush the town.
+7729_102255_000016_000006(nwords=13,cor=13,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	in the missouri camp, while the leaders became alarmed, the men grew insubordinate.
+hyp:	in the missouri camp, while the leaders became alarmed, the men grew insubordinate.
+7729_102255_000016_000008(nwords=17,cor=16,ins=0,del=0,sub=1) corr:94.12%,cer:5.88%
+ref:	the forces of the lecompton can't fully understand the plot and will fight under the same banner.
+hyp:	the forces of the lecompton camp fully understand the plot and will fight under the same banner.
+7729_102255_000018_000006(nwords=12,cor=11,ins=0,del=0,sub=1) corr:91.67%,cer:8.33%
+ref:	neither party was willing to yield lawlessly, nor ready to fight manfully.
+hyp:	neither party was willing to yield honestly, nor ready to fight manfully.
+7729_102255_000021_000000(nwords=13,cor=13,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	the truce patched up by this lawrence treaty was of comparatively short duration.
+hyp:	the truce patched up by this lawrence treaty was of comparatively short duration.
+7729_102255_000025_000003(nwords=17,cor=17,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	the people of lawrence denounced the deed, but the sheriff hoarded up the score for future revenge.
+hyp:	the people of lawrence denounced the deed, but the sheriff hoarded up the score for future revenge.
+7729_102255_000028_000004(nwords=10,cor=10,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	their distinctive characters, however, display one broad and unfailing difference.
+hyp:	their distinctive characters, however, display one broad and unfailing difference.
+7729_102255_000028_000008(nwords=12,cor=8,ins=0,del=2,sub=2) corr:66.67%,cer:33.33%
+ref:	they are assumed to character change with their changing opportunities or necessities.
+hyp:	their assumed character changed with their changing opportunities or necessities.
+7729_102255_000034_000005(nwords=15,cor=15,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	ten days were consumed in these negotiations, but the spirit of vengeance refused to yield.
+hyp:	ten days were consumed in these negotiations, but the spirit of vengeance refused to yield.
+7729_102255_000035_000001(nwords=15,cor=13,ins=0,del=0,sub=2) corr:86.67%,cer:13.33%
+ref:	he continued his pretended search, and, to give color to his errand, made two arrests
+hyp:	he continued his pretended search, and to give color to his errand, made two arrests.
+7729_102255_000035_000006(nwords=13,cor=13,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	the military force, partly rabble, partly organized, had meanwhile moved into the town.
+hyp:	the military force, partly rabble, partly organized, had meanwhile moved into the town.
+7729_102255_000036_000005(nwords=17,cor=15,ins=0,del=0,sub=2) corr:88.24%,cer:11.76%
+ref:	the inmates being removed at the appointed hour, a few cannonballs were fired through the stone walls.
+hyp:	the inmates being removed, at the appointed hour a few cannonballs were fired through the stone walls.
+8224_274384_000005_000001(nwords=14,cor=14,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	he was particularly attentive to the behaviour of their preachers, on whom all depended.
+hyp:	he was particularly attentive to the behaviour of their preachers, on whom all depended.
+8224_274384_000006_000000(nwords=11,cor=10,ins=0,del=0,sub=1) corr:90.91%,cer:9.09%
+ref:	why dost thou, tyrant, boast thyself thy wicked deeds to praise?
+hyp:	why dost thou, tyrant, boast thyself, thy wicked deeds to praise?
+8224_274384_000017_000002(nwords=15,cor=15,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	yet were they little worse than what were insisted on before the battle of naseby.
+hyp:	yet were they little worse than what were insisted on before the battle of naseby.
+8230_279154_000002_000000(nwords=16,cor=16,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	memory, which we are to consider today, introduces us to knowledge in one of its forms.
+hyp:	memory, which we are to consider today, introduces us to knowledge in one of its forms.
+8230_279154_000004_000006(nwords=17,cor=16,ins=0,del=0,sub=1) corr:94.12%,cer:5.88%
+ref:	how then, are we to find any way of comparing the present image and the past sensation?
+hyp:	how then are we to find any way of comparing the present image and the past sensation?
+8230_279154_000004_000009(nwords=18,cor=18,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	in this way, the whole status of images as copies is bound up with the analysis of memory.
+hyp:	in this way, the whole status of images as copies is bound up with the analysis of memory.
+8230_279154_000007_000000(nwords=17,cor=15,ins=0,del=1,sub=1) corr:88.24%,cer:11.76%
+ref:	i am not suggesting that the non-existence of the past should be entertained as a serious hypothesis.
+hyp:	i'm not suggesting that the non-existence of the past should be entertained as a serious hypothesis.
+8230_279154_000011_000001(nwords=19,cor=18,ins=0,del=0,sub=1) corr:94.74%,cer:5.26%
+ref:	it might be suggested that vagueness is a required characteristic, but i do not think this is the case.
+hyp:	it might be suggested that vagueness is the required characteristic, but i do not think this is the case.
+8230_279154_000011_000003(nwords=15,cor=15,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	in such a case, we distrust our image in spite of its being unusually clear.
+hyp:	in such a case, we distrust our image in spite of its being unusually clear.
+8230_279154_000011_000005(nwords=12,cor=12,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	some images, like some sensations, feel very familiar while others feel strange.
+hyp:	some images, like some sensations, feel very familiar while others feel strange.
+8230_279154_000017_000002(nwords=12,cor=11,ins=0,del=0,sub=1) corr:91.67%,cer:8.33%
+ref:	but the rejection of the subject renders some more complicated theory necessary.
+hyp:	but the rejection of this subject renders some more complicated theory necessary.
+8230_279154_000017_000003(nwords=17,cor=17,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	remembering has to be a present occurrence in some way resembling or related to what is remembered.
+hyp:	remembering has to be a present occurrence in some way resembling or related to what is remembered.
+8230_279154_000018_000000(nwords=17,cor=16,ins=0,del=0,sub=1) corr:94.12%,cer:5.88%
+ref:	some points may be taken as fixed, and such as any theory of memory must arrive at.
+hyp:	some points may be taken as fixed and such as any theory of memory must arrive at.
+8230_279154_000018_000005(nwords=17,cor=17,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	nevertheless, in spite of the risk of error, precision is the goal at which we must aim.
+hyp:	nevertheless, in spite of the risk of error, precision is the goal at which we must aim.
+8230_279154_000019_000000(nwords=16,cor=15,ins=0,del=0,sub=1) corr:93.75%,cer:6.25%
+ref:	the first of our vague but indubitable data is that there is knowledge of the past,
+hyp:	the first of our vague but indubitable data is that there is knowledge of the past.
+8230_279154_000021_000003(nwords=15,cor=14,ins=0,del=0,sub=1) corr:93.33%,cer:6.67%
+ref:	these considerations, however, are taking us away from psychology to which we must now return.
+hyp:	these considerations, however, are taking us away from psychology, to which we must now return.
+8230_279154_000022_000007(nwords=15,cor=15,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	when we have once described the event, the words we have used easily become habitual.
+hyp:	when we have once described the event, the words we have used easily become habitual.
+8230_279154_000024_000000(nwords=19,cor=19,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	the sort of memory with which we are here concerned is the sort which is a form of knowledge.
+hyp:	the sort of memory with which we are here concerned is the sort which is a form of knowledge.
+8230_279154_000027_000002(nwords=17,cor=17,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	we recognize our friend jones. we know cats and dogs when we see them, and so on.
+hyp:	we recognize our friend jones. we know cats and dogs when we see them, and so on.
+8455_210777_000003_000004(nwords=18,cor=16,ins=0,del=0,sub=2) corr:88.89%,cer:11.11%
+ref:	and what hope had there been what reasonable expectation that the system should have been allowed fair play
+hyp:	and what hope had there been? what reasonable expectation that the system should have been allowed fair play?
+8455_210777_000012_000002(nwords=21,cor=19,ins=0,del=0,sub=2) corr:90.48%,cer:9.52%
+ref:	i must by no means show in such company as was now present the strong feeling which pervaded my own mind.
+hyp:	i must by no means show in such company, as was now present, the strong feeling which pervaded my own mind.
+8455_210777_000014_000000(nwords=19,cor=18,ins=0,del=0,sub=1) corr:94.74%,cer:5.26%
+ref:	this was a pretty little speech enough and received the eager compliments of the officers of the john bright.
+hyp:	this was a pretty little speech enough, and received the eager compliments of the officers of the john bright.
+8455_210777_000015_000000(nwords=23,cor=22,ins=0,del=0,sub=1) corr:95.65%,cer:4.35%
+ref:	jack had been standing in the far corner of the room talking to ava, and was now reduced to silence by his praises.
+hyp:	jack had been standing in the far corner of the room talking to eva and was now reduced to silence by his praises.
+8455_210777_000022_000005(nwords=19,cor=19,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	when the president of the republic has his health drunk, it is, i conceive, his duty to do so.
+hyp:	when the president of the republic has his health drunk, it is, i conceive, his duty to do so.
+8455_210777_000034_000000(nwords=18,cor=18,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	and that in opposition to the wishes, as i understand, of a large proportion of your fellow citizens.
+hyp:	and that in opposition to the wishes, as i understand, of a large proportion of your fellow citizens.
+8455_210777_000040_000000(nwords=18,cor=18,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	and you are, i am aware, sufficiently popular with the people here to enable you to do so.
+hyp:	and you are, i am aware, sufficiently popular with the people here to enable you to do so.
+8455_210777_000049_000001(nwords=21,cor=19,ins=0,del=0,sub=2) corr:90.48%,cer:9.52%
+ref:	i was to be taken away and carried to england or elsewhere, or drowned upon the voyage. it mattered not which.
+hyp:	i was to be taken away and carried to england, or elsewhere, or drowned upon the voyage, it mattered not which.
+8455_210777_000050_000001(nwords=18,cor=18,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	now, at the close of the 20th century, could oppression be carried to such a height as this?
+hyp:	now, at the close of the 20th century, could oppression be carried to such a height as this?
+8455_210777_000053_000000(nwords=15,cor=13,ins=0,del=0,sub=2) corr:86.67%,cer:13.33%
+ref:	lieutenant crosteries has sealed orders and is practically acquainted with the mechanism of the gun.
+hyp:	lieutenant crosstrees had sealed orders and is practically acquainted with the mechanism of the gun.
+8455_210777_000061_000004(nwords=20,cor=20,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	the country has since undoubtedly prospered, and in a material point of view has given us no grounds for regret.
+hyp:	the country has since undoubtedly prospered, and in a material point of view has given us no grounds for regret.
+8455_210777_000079_000002(nwords=23,cor=23,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	all this i could hardly explain to him, as i should thus be giving to him the strongest evidence against my own philosophy.
+hyp:	all this i could hardly explain to him, as i should thus be giving to him the strongest evidence against my own philosophy.
+8463_287645_000003_000002(nwords=19,cor=16,ins=0,del=0,sub=3) corr:84.21%,cer:15.79%
+ref:	nor was he all muscle, but a great deal. he was well balanced as to mother width and shrewdness.
+hyp:	nor was he all muscled by a great deal. he was well balanced as to mother wit and shrewdness.
+8463_287645_000024_000000(nwords=12,cor=12,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	when asked what first prompted him to seek his freedom, he replied,
+hyp:	when asked what first prompted him to seek his freedom, he replied,
+8463_287645_000030_000001(nwords=17,cor=17,ins=2,del=0,sub=0) corr:100.00%,cer:11.76%
+ref:	he hated everything like slavery, and as he was, he had already made five attempts to escape.
+hyp:	he hated everything like slavery, and as young as he was, he had already made five attempts to escape.
+8463_294825_000018_000001(nwords=15,cor=14,ins=1,del=0,sub=1) corr:93.33%,cer:13.33%
+ref:	the poles were quashed with a violence that appalled not only bern, but all europe.
+hyp:	the poles were quashed with a violence that appalled not only verne, but all of europe.
+8463_294825_000030_000000(nwords=14,cor=14,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	because, as that time cover story suggests, we still haven't caught up with vern.
+hyp:	because, as that time cover story suggests, we still haven't caught up with vern.
+8463_294825_000030_000001(nwords=15,cor=15,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	even in our era of satellite dishes and video games, the seas keep their secrets.
+hyp:	even in our era of satellite dishes and video games, the seas keep their secrets.
+8463_294828_000014_000000(nwords=16,cor=16,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	even so, i had just returned from an arduous journey, exhausted and badly needing a rest.
+hyp:	even so, i had just returned from an arduous journey, exhausted and badly needing a rest.
+8463_294828_000021_000000(nwords=20,cor=19,ins=0,del=0,sub=1) corr:95.00%,cer:5.00%
+ref:	the lad was thirty years old, and his age to that of his employer was as fifteen as to twenty.
+hyp:	the lad was thirty years old, and his age to that of his employer was as fifteen is to twenty.
+8463_294828_000022_000001(nwords=22,cor=21,ins=0,del=0,sub=1) corr:95.45%,cer:4.55%
+ref:	he was a fanatic on formality, and he only addressed me in the third person to the point where it got tiresome.
+hyp:	he was a fanatic on formality, and he only addressed me in the third person, to the point where it got tiresome.
+8463_294828_000038_000000(nwords=13,cor=12,ins=0,del=0,sub=1) corr:92.31%,cer:7.69%
+ref:	yes, we are certainly," i replied evasively, but after we make a detour.
+hyp:	yes, we are, certainly," i replied evasively, but after we make a detour.
+8463_294828_000047_000001(nwords=16,cor=15,ins=0,del=0,sub=1) corr:93.75%,cer:6.25%
+ref:	i left instructions for shipping my containers of stuffed animals, and dried plants to paris, france.
+hyp:	i left instructions for shipping my containers of stuffed animals and dried plants to paris, france.
+8463_294828_000067_000000(nwords=22,cor=22,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	lincoln until it reached the waters of the hudson river at the tip of the long peninsula that forms new york city.
+hyp:	lincoln until it reached the waters of the hudson river at the tip of the long peninsula that forms new york city.
+8555_284447_000008_000000(nwords=11,cor=5,ins=3,del=1,sub=5) corr:45.45%,cer:81.82%
+ref:	so how, lord the monarch, you thawed myrr's cloud, did you?
+hyp:	so, roared the monarch, you thought you could defy me, earth-claw, did you?
+8555_284447_000010_000001(nwords=23,cor=20,ins=0,del=0,sub=3) corr:86.96%,cer:13.04%
+ref:	my guards are not to be trusted. and i don't mean to let you out of my sight again till you are patched.
+hyp:	my guards are not to be trusted, and i don't mean to let you out of my sight again until you are patched."
+8555_284447_000012_000001(nwords=16,cor=11,ins=0,del=0,sub=5) corr:68.75%,cer:31.25%
+ref:	no one could see her so no one not even cap bill knew she was there
+hyp:	no one could see her, so no one, not even captain bill, knew she was there.
+8555_284447_000013_000001(nwords=16,cor=14,ins=0,del=0,sub=2) corr:87.50%,cer:12.50%
+ref:	invisible trot followed soberly after them. still wondering what she could do to save her friend,
+hyp:	invisible trot followed soberly after them, still wondering what she could do to save her friend.
+8555_284447_000018_000000(nwords=23,cor=23,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	the room of the great knife was high and big, and around it ran rows of benches for the spectators to sit upon.
+hyp:	the room of the great knife was high and big, and around it ran rows of benches for the spectators to sit upon.
+8555_284447_000018_000003(nwords=16,cor=14,ins=0,del=0,sub=2) corr:87.50%,cer:12.50%
+ref:	therefore, her majesty paid no attention to anyone and no one paid any attention to her.
+hyp:	therefore her majesty paid no attention to anyone, and no one paid any attention to her.
+8555_284447_000020_000002(nwords=14,cor=14,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	these plumes waved gracefully in the air with every mincing step the princesses took.
+hyp:	these plumes waved gracefully in the air with every mincing step the princesses took.
+8555_284447_000033_000003(nwords=19,cor=19,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	go and capture the first living creature you see and bring him here to be patched to captain bill.
+hyp:	go and capture the first living creature you see and bring him here to be patched to captain bill.
+8555_284447_000036_000000(nwords=14,cor=12,ins=0,del=0,sub=2) corr:85.71%,cer:14.29%
+ref:	suddenly there was a noise in the corridor and evidence of scuffling and struggling.
+hyp:	suddenly there was a noise in the corridor, an evidence of scuffling and struggling.
+8555_284447_000047_000000(nwords=22,cor=22,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	the soldiers again rolled the frame in position, having first pulled the great knife once more to the top of the derrick.
+hyp:	the soldiers again rolled the frame in position, having first pulled the great knife once more to the top of the derrick.
+8555_284447_000048_000000(nwords=23,cor=20,ins=0,del=0,sub=3) corr:86.96%,cer:13.04%
+ref:	when all was in readiness, the king pulled the cord a second time, and shrivelled it the same instant pulled upon her rope.
+hyp:	when all was in readiness, the king pulled the cord a second time, and trot, at the same instant, pulled upon her rope.
+8555_284447_000064_000000(nwords=16,cor=10,ins=0,del=0,sub=6) corr:62.50%,cer:37.50%
+ref:	you'll take it easy cause you can't help yourself. said captain bill, what next? ween trot!
+hyp:	you'll take it easy, cause you can't help yourself, said captain bill. what next, queen trot?
+8555_284447_000066_000000(nwords=23,cor=23,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	then they rolled the frame in position underneath the great knife, and trot held in her hand the cord which would release it.
+hyp:	then they rolled the frame in position underneath the great knife, and trot held in her hand the cord which would release it.
+8555_284449_000007_000000(nwords=18,cor=17,ins=0,del=0,sub=1) corr:94.44%,cer:5.56%
+ref:	in this order they proceeded to the main gate, which shrott ordered the guards to throw wide open.
+hyp:	in this order they proceeded to the main gate, which trott ordered the guards to throw wide open.
+8555_284449_000028_000001(nwords=19,cor=19,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	then she gave rosalie back her magic ring, thanking the kind witch for all she had done for them.
+hyp:	then she gave rosalie back her magic ring, thanking the kind witch for all she had done for them.
+8555_284449_000029_000001(nwords=17,cor=16,ins=1,del=0,sub=1) corr:94.12%,cer:11.76%
+ref:	always be queen of sky island, but the pink and blue countries must each have a ruler.
+hyp:	i'll always be queen of sky island, but the pink and blue countries must each have a ruler
+8555_284449_000053_000001(nwords=26,cor=22,ins=1,del=1,sub=3) corr:84.62%,cer:19.23%
+ref:	it isn't a very pretty cabin, and the furniture is cheap and common, but i'm sure it is good enough for the span and his family.
+hyp:	it isn't a very pretty cabin, and the furniture is cheap and common, but i'm sure it's good enough for this wicked man and his family.
+8555_284449_000057_000000(nwords=16,cor=14,ins=0,del=0,sub=2) corr:87.50%,cer:12.50%
+ref:	this was done. the once royal family departing from the palace was shamed and downcast looks.
+hyp:	this was done, the once royal family departing from the palace with shamed and downcast looks.
+908_31957_000019_000001(nwords=12,cor=10,ins=0,del=0,sub=2) corr:83.33%,cer:16.67%
+ref:	dearest, teach me so to pour out gratitude as thou dost. good.
+hyp:	dearest, teach me so to pour out gratitude, as thou dost good.
+
+%WER 9.46 [ 818 / 8646, 159 ins, 58 del, 601 sub ]
+%SER 65.0 [ 325 / 500 ]
+Scored 500 sentences, 0 not present in hyp.

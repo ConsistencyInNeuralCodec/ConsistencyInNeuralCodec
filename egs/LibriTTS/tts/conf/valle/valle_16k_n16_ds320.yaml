@@ -1,0 +1,74 @@
+# input configs
+input_size: 1
+use_preprocessor: false      # use preprocessor to clip speech to target length
+speech_max_length: 2000    # in samples
+valid_max_length: 2000     # in samples
+sampling_rate: 16000
+
+# model
+model: valle
+model_conf:
+    ling_unit_size: {"sy":147, "tone":10, "syllable_flag":8, "word_segment":8}
+    ling_unit_pad: {"sy":144, "tone":7, "syllable_flag":5, "word_segment":5}
+    d_model: 1024
+    nhead: 16
+    num_layers: 12
+    code_vocab_size: 1024
+    dropout_rate: 0.1
+    # num_rvq: 8
+    num_rvq: 16
+    positional_dropout_rate: 0.1
+    attention_dropout_rate: 0.1
+    norm_before: true
+    conditioning_language_id: false
+    lang_type_lst: ["ch", "en"]
+    conditioning_style_emb: false
+    style_emb_size: 128
+    syn_random: true
+    tied_output: true
+    prompt_mode: 0
+    prompt_lens: 150
+
+# optimizer
+optim: scaledadam            # optimizer type
+optim_conf:             # keyword arguments for selected optimizer
+    lr: 0.05          # learning rate, the dot is necessary to make yaml load it as float not string
+    betas: [0.9, 0.95]
+    clipping_scale: 2.0
+    show_dominant_parameters: false
+    clipping_update_period: 1000
+
+# scheduler
+scheduler: eden
+scheduler_conf:
+    lr_batches: 5000
+    lr_epochs: 4
+    warmup_batches: 200
+
+# training settings
+max_epoch: 60             # number of epochs
+accum_grad: 1             # gradient accumulation
+batch_size: 9           # batch size (feats_type=raw)
+fold_length: [200]
+drop_last: true           # drop last batch
+batch_type: folded      # how to make batch
+grad_clip: -1             # gradient clipping norm
+grad_noise: false         # whether to use gradient noise injection
+sort_in_batch: descending # how to sort data in making batch
+sort_batch: descending    # how to sort created batches
+num_workers: 8            # number of workers of data loader
+use_amp: false            # whether to use pytorch amp
+log_interval: 50          # log interval in iterations
+keep_nbest_models: 60     # number of models to keep
+num_att_plot: 0           # number of attention figures to be saved in every check
+seed: 0                   # random seed number
+patience: null            # patience for early stopping
+unused_parameters: true   # needed for multi gpu case
+best_model_criterion:     # criterion to save the best models
+-   - valid
+    - loss
+    - min
+cudnn_deterministic: false # setting to false accelerates the training speed but makes it non-deterministic
+                           # in the case of GAN training, we strongly recommend setting to false
+cudnn_benchmark: false     # setting to true might accelerate the training speed but sometimes decrease it
+                           # therefore, we set to false as a default (recommend trying both cases)

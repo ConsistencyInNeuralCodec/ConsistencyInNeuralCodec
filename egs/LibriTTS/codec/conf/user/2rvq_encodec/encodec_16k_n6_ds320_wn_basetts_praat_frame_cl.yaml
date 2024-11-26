@@ -1,0 +1,144 @@
+# This configuration is inspired by Encodec paper (8GPUs for training)
+
+# input configs
+input_size: 1
+use_preprocessor: true      # use preprocessor to clip speech to target length
+speech_max_length: 20480    # in seconds
+valid_max_length: 20480       # in seconds
+sampling_rate: 16000
+
+# encoder
+encoder: encodec_seanet_encoder
+encoder_conf:
+    # norm: time_group_norm
+    norm: weight_norm
+    ratios: [8, 5, 4, 2]
+    n_filters: 64
+    seq_model: none
+    causal: false
+    # last_norm_config: v2
+
+# quantizer
+quantizer: costume_quantizer
+quantizer_conf:
+    codebook_size: 1024
+    # num_quantizers: 16
+    num_quantizers: 2
+    ema_decay: 0.99
+    kmeans_init: true
+    sampling_rate: 16000
+    quantize_dropout: true
+    # rand_num_quant: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+    rand_num_quant: [1, 2, 2, 2]
+    use_ddp: true
+    encoder_hop_length: 320
+    commitment_weight: 0.05
+
+# decoder
+decoder: encodec_seanet_decoder
+decoder_conf:
+    norm: time_group_norm
+    ratios: [8, 5, 4, 2, 1]
+    n_filters: 64
+    seq_model: none
+    causal: false
+    residual_kernel_size: 3
+    n_residual_layers: 3
+    dilation_base: 3
+
+# discriminator
+discriminator: multiple_disc
+discriminator_conf:
+    disc_conf_list:
+        - name: encodec_multi_scale_stft_discriminator
+          filters: 32
+
+# model
+model: encodec
+model_conf:
+    odim: 128
+    multi_spectral_window_powers_of_two: [5, 6, 7, 8, 9, 10]
+    target_sample_hz: 16000
+    audio_normalize: false
+    enc_quant_loss_weight: 0
+    use_power_spec_loss: true
+    segment_dur: null
+    overlap_ratio: null
+    timbre_strategy:
+        timbre_extractor_config:
+            encoder_type: wav2vec2_conformer
+            config_path: /home/admin_data/user/model/uniaudio_admin/FunCodec-Dev/egs/LibriTTS/codec/conf/user/2rvq/wav2vec2_conformer_config.json
+            merge_embed: mean_pooling
+            # merge_with_quant_out: add
+            merge_with_quant_out: linear
+            half_speech_contrastive: true
+            half_speech_contrastive_loss: 1.0
+            speech_quant_out_contrastive: true
+            speech_quant_out_contrastive_loss: 1.0
+            alpha_for_speech_quant_out_contrastive_gradient_reversal: 1.0
+        praat_config:
+            sampling_rate: 16_000
+            formant_shift: 1.4
+            pitch_shift: 1.4
+            pitch_range: 1.5
+            pitch_steps: 0.01
+            pitch_floor: 75
+            pitch_ceil: 600
+            duration_factor: 1.0
+        frame_contrastive_encoder_config:
+            # detach_frame_features: perturbed_features
+            detach_frame_features: null
+            encoder_type: simclr_frame_contrastive_encoder
+            features_type: encoder
+            perturbed_features_type: encoder
+            # features_type: quantizer
+            # perturbed_features_type: quantizer
+            loss_type: info_nce_loss
+            loss_weight: 1.0
+            info_nce_loss_reduction: mean
+            temperature: 0.1
+            linear_dim_list: null
+            dropout: 0.1
+            encoder_last_n_layer: -1
+
+# optimizer for generator
+optim: adam            # optimizer type
+optim_conf:             # keyword arguments for selected optimizer
+    lr: 0.0003          # learning rate, the dot is necessary to make yaml load it as float not string
+    betas: [0.5, 0.9]
+
+# optimizer for discriminator
+optim2: adam              # optimizer type
+optim2_conf:              # keyword arguments for selected optimizer
+    lr: 0.0003            # learning rate
+    betas: [0.5, 0.9]
+
+# training settings
+num_iters_per_epoch: 50000 # number of iterations per epoch
+save_ckpt_every_steps: 5000
+max_epoch: 60             # number of epochs
+accum_grad: 1             # gradient accumulation
+batch_size: 48           # batch size (feats_type=raw)
+drop_last: true           # drop last batch
+batch_type: unsorted      # how to make batch
+grad_clip: -1             # gradient clipping norm
+disc_grad_clip: -1        # gradient clipping norm for discriminator
+grad_noise: false         # whether to use gradient noise injection
+sort_in_batch: descending # how to sort data in making batch
+sort_batch: descending    # how to sort created batches
+num_workers: 16            # number of workers of data loader
+use_amp: false            # whether to use pytorch amp
+log_interval: 50          # log interval in iterations
+keep_nbest_models: 60     # number of models to keep
+num_att_plot: 0           # number of attention figures to be saved in every check
+seed: 0                   # random seed number
+patience: null            # patience for early stopping
+unused_parameters: true   # needed for multi gpu case
+best_model_criterion:     # criterion to save the best models
+-   - valid
+    - generator_multi_spectral_recon_loss
+    - min
+cudnn_deterministic: false # setting to false accelerates the training speed but makes it non-deterministic
+                           # in the case of GAN training, we strongly recommend setting to false
+cudnn_benchmark: false     # setting to true might accelerate the training speed but sometimes decrease it
+                           # therefore, we set to false as a default (recommend trying both cases)

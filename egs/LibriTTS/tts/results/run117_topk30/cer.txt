@@ -1,0 +1,304 @@
+1272_128104_000001_000000(nwords=4,cor=1,ins=0,del=0,sub=3) corr:25.00%,cer:75.00%
+ref:	a jollyard critic .
+hyp:	a jolly art critic
+1272_128104_000003_000000(nwords=16,cor=15,ins=0,del=1,sub=0) corr:93.75%,cer:6.25%
+ref:	there is a healthy bank holiday atmosphere about this book , which is extremely pleasant .
+hyp:	there is a healthy bank holiday atmosphere about this book which is extremely pleasant .
+1272_128104_000003_000001(nwords=12,cor=10,ins=0,del=1,sub=1) corr:83.33%,cer:16.67%
+ref:	mr . coulter is entirely free from affectation of any kind .
+hyp:	mr quilter is entirely free from affectation of any kind .
+1272_128104_000003_000002(nwords=21,cor=19,ins=0,del=0,sub=2) corr:90.48%,cer:9.52%
+ref:	he relects to art with the recklessness of the tourist and describes its beauties with the enthusiasm of the auctioneer .
+hyp:	he rollicks through art with the recklessness of the tourist and describes its beauties with the enthusiasm of the auctioneer .
+1272_128104_000003_000003(nwords=27,cor=27,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	to many , no doubt , he will seem to be somewhat blatant and bumptious , but we prefer to regard him as being simply british .
+hyp:	to many , no doubt , he will seem to be somewhat blatant and bumptious , but we prefer to regard him as being simply british .
+1272_128104_000003_000005(nwords=23,cor=19,ins=0,del=0,sub=4) corr:82.61%,cer:17.39%
+ref:	after listening so long to the dhan kihodi of art , to listen once to sanghva panca is both salutary and refreshing .
+hyp:	after listening so long to the don quixote of art , to listen once to sancho panza is both salutary and refreshing .
+1272_128104_000005_000000(nwords=18,cor=16,ins=2,del=2,sub=0) corr:88.89%,cer:22.22%
+ref:	about artists and their work , mr . quilter has of course a great deal to say .
+hyp:	about artists and their work mr quilter has , of course , a great deal to say .
+1272_128104_000005_000001(nwords=45,cor=37,ins=4,del=4,sub=4) corr:82.22%,cer:26.67%
+ref:	sculpture , he regards , is paintings poor relation , so , with the exception of a jaunty allusion to the rough modelling of tenegra , figurines , he hardly refers at all to the plastic arts . but on painters he writes with much
+hyp:	sculpture he regards as paintings poor relation ; so , with the exception of a jaunty allusion to the rough modelling of tanagra figurines he hardly refers at all to the plastic arts ; but on painters he writes with much vigour and joviality .
+1272_128104_000005_000006(nwords=56,cor=50,ins=9,del=2,sub=4) corr:89.29%,cer:26.79%
+ref:	that there is a difference between color and color and colors that an artist , be he portrait painter or dramatist , always reveals himself in his manner , are ideas that can hardly be said to occur to him . but mr . quilter really does his best and bravely faces every difficulty in modern
+hyp:	that there is a difference between colour and colours , that an artist , be he portrait painter or dramatist , always reveals himself in his manner , are ideas that can hardly be said to occur to him ; but mr quilter really does his best and bravely faces every difficulty in modern art , with the exception of mr whistler .
+1272_128104_000005_000007(nwords=15,cor=5,ins=8,del=0,sub=10) corr:33.33%,cer:120.00%
+ref:	painting . he tells us it is ours . he taught us anymore facts .
+hyp:	painting , he tells us , is of a different quality to mathematics , and finish in art is adding more fact !
+1272_128104_000005_000008(nwords=49,cor=46,ins=7,del=1,sub=2) corr:93.88%,cer:20.41%
+ref:	portrait painting is a bad pursuit for an emotional artist as it destroys his personality and his sympathy , however . even for the emotional artist , there is hope as a portrait can be converted into a picture by adding to the likeness of the sitter some dramatic
+hyp:	portrait painting is a bad pursuit for an emotional artist as it destroys his personality and his sympathy ; however , even for the emotional artist there is hope , as a portrait can be converted into a picture by adding to the likeness of the sitter some dramatic interest or some picturesque adjunct !
+1272_128104_000005_000009(nwords=14,cor=13,ins=0,del=1,sub=0) corr:92.86%,cer:7.14%
+ref:	as for etchings , they are of two kinds , british and foreign .
+hyp:	as for etchings , they are of two kinds british and foreign .
+1272_128104_000005_000013(nwords=43,cor=37,ins=22,del=1,sub=5) corr:86.05%,cer:65.12%
+ref:	and then the picture he draws of the ideal home where everything , the logos , hallowed by domestic memories , and where beauty appeals not to the heartless eye , but the family affections . babies cheer there , and the mothers
+hyp:	and then the picture he draws of the ideal home , where everything , though ugly , is hallowed by domestic memories , and where beauty appeals not to the heartless eye but the family affections ; babys chair there , and the mothers work basket . near the fire , and the ornaments fred brought home from india on the mantel board !
+1272_128104_000005_000014(nwords=14,cor=14,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	it is really impossible not to be touched by so charming a description .
+hyp:	it is really impossible not to be touched by so charming a description .
+1272_128104_000006_000003(nwords=4,cor=4,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	far from it .
+hyp:	far from it .
+1272_128104_000006_000008(nwords=10,cor=10,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	on the whole , the book will not do .
+hyp:	on the whole , the book will not do .
+1272_128104_000006_000009(nwords=45,cor=40,ins=32,del=0,sub=5) corr:88.89%,cer:82.22%
+ref:	we fully admit that it is extremely amusing , and doudnas seculture is quite earnest in his endeavours to elevate art to the dignity of manual labour , but the extraordinary vulgarity of the style alone will always be sufficient to prevent these sententious artists
+hyp:	we fully admit that it is extremely amusing and , no doubt , mr quilter is quite earnest in his endeavours to elevate art to the dignity of manual labour , but the extraordinary vulgarity of the style alone will always be sufficient to prevent these sententiae artis from being anything more than curiosities of literature . mr quilter has missed his chance ; for he has failed even to make himself the tupper of painting .
+1272_128104_000007_000000(nwords=11,cor=9,ins=3,del=0,sub=2) corr:81.82%,cer:45.45%
+ref:	sintense artists first principles of art for painters and picture lovers
+hyp:	sententiae : artis : first principles of art for painters and picture lovers .
+1272_128104_000007_000001(nwords=6,cor=3,ins=2,del=0,sub=3) corr:50.00%,cer:83.33%
+ref:	by harry quilter and emma esbister
+hyp:	by harry quilter , m a isbister .
+1272_135031_000002_000000(nwords=2,cor=1,ins=0,del=0,sub=1) corr:50.00%,cer:50.00%
+ref:	king talib
+hyp:	king kaliko
+1272_135031_000005_000000(nwords=6,cor=4,ins=0,del=0,sub=2) corr:66.67%,cer:33.33%
+ref:	dont worry , reply quacks .
+hyp:	dont worry , replied quox .
+1272_135031_000007_000001(nwords=14,cor=11,ins=0,del=1,sub=2) corr:78.57%,cer:21.43%
+ref:	next instant shaggy was himself again , and quark said to him grumblingly ,
+hyp:	next instant shaggy was himself again and quox said to him grumblingly :
+1272_135031_000008_000000(nwords=18,cor=17,ins=0,del=0,sub=1) corr:94.44%,cer:5.56%
+ref:	please get off my left toe , shaggy man . and be more particular where you step .
+hyp:	please get off my left toe , shaggy man , and be more particular where you step .
+1272_135031_000026_000002(nwords=22,cor=19,ins=0,del=0,sub=3) corr:86.36%,cer:13.64%
+ref:	quark did not have much to say until the conversation was ended , but then he turned to coleco and asked ,
+hyp:	quox did not have much to say until the conversation was ended , but then he turned to kaliko and asked :
+1272_135031_000028_000000(nwords=24,cor=24,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	me ? stammered the chamberlain , greatly surprised by the question . well , i couldnt be a worse king , im sure .
+hyp:	me ? stammered the chamberlain , greatly surprised by the question . well , i couldnt be a worse king , im sure .
+1272_135031_000030_000000(nwords=7,cor=5,ins=0,del=1,sub=1) corr:71.43%,cer:28.57%
+ref:	of course , said kelly foe .
+hyp:	of course , said kaliko .
+1272_135031_000032_000000(nwords=8,cor=7,ins=2,del=0,sub=1) corr:87.50%,cer:37.50%
+ref:	hooray ! cried betsy unglad of that .
+hyp:	hooray ! cried betsy ; im glad of that .
+1272_135031_000035_000000(nwords=4,cor=4,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	the ugly one ?
+hyp:	the ugly one ?
+1272_135031_000035_000001(nwords=6,cor=4,ins=0,del=0,sub=2) corr:66.67%,cer:33.33%
+ref:	very willingly , replies kaliso .
+hyp:	very willingly , replied kaliko .
+1272_135031_000036_000002(nwords=9,cor=8,ins=2,del=0,sub=1) corr:88.89%,cer:33.33%
+ref:	but is my dear brother well he had anxiously
+hyp:	but is my dear brother well ? he added anxiously .
+1272_135031_000038_000000(nwords=10,cor=10,ins=1,del=0,sub=0) corr:100.00%,cer:10.00%
+ref:	i hope he doesnt work too hard said shaggy .
+hyp:	i hope he doesnt work too hard , said shaggy .
+1272_135031_000039_000000(nwords=6,cor=6,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	he doesnt work at all .
+hyp:	he doesnt work at all .
+1272_135031_000041_000000(nwords=7,cor=3,ins=0,del=1,sub=3) corr:42.86%,cer:57.14%
+ref:	not exactly return to the rico .
+hyp:	not exactly , returned kaliko .
+1272_135031_000043_000000(nwords=5,cor=5,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	in the metal forest .
+hyp:	in the metal forest .
+1272_135031_000044_000000(nwords=4,cor=4,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	where is that ?
+hyp:	where is that ?
+1272_135031_000045_000002(nwords=26,cor=23,ins=0,del=2,sub=1) corr:88.46%,cer:11.54%
+ref:	all the trees are gold , and silver , and the ground is strewn with precious stones . so it is a sort of treasury .
+hyp:	all the trees are gold and silver and the ground is strewn with precious stones , so it is a sort of treasury .
+1272_135031_000047_000000(nwords=3,cor=2,ins=0,del=0,sub=1) corr:66.67%,cer:33.33%
+ref:	calico hesitated .
+hyp:	kaliko hesitated .
+1272_135031_000051_000000(nwords=7,cor=6,ins=0,del=0,sub=1) corr:85.71%,cer:14.29%
+ref:	do you suppose rigedo destroyed them ?
+hyp:	do you suppose ruggedo destroyed them ?
+1272_135031_000052_000000(nwords=8,cor=8,ins=2,del=0,sub=0) corr:100.00%,cer:25.00%
+ref:	oh , im quite sure he didnt .
+hyp:	oh , no ; im quite sure he didnt .
+1272_135031_000052_000001(nwords=48,cor=45,ins=0,del=2,sub=1) corr:93.75%,cer:6.25%
+ref:	they fell into the big pit in the passage , and we put the cover on to keep them there . but when the executioners went to look for them , they had all disappeared from the pit , and we could find no trace of them .
+hyp:	they fell into the big pit in the passage , and we put the cover on to keep them there ; but when the executioners went to look for them they had all disappeared from the pit and we could find no trace of them .
+1272_135031_000053_000000(nwords=7,cor=7,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	thats funny , remarked betsy thoughtfully .
+hyp:	thats funny , remarked betsy thoughtfully .
+1272_135031_000053_000002(nwords=13,cor=13,ins=1,del=0,sub=0) corr:100.00%,cer:7.69%
+ref:	but to disappear like that seems like magic now , doesnt it ?
+hyp:	but to disappear like that seems like magic ; now , doesnt it ?
+1272_135031_000054_000000(nwords=14,cor=14,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	they agreed that it did , but no one could explain the mystery .
+hyp:	they agreed that it did , but no one could explain the mystery .
+1272_135031_000055_000000(nwords=24,cor=24,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	however , said shaggy , they are gone , that is certain , so we cannot help them or be helped by them .
+hyp:	however , said shaggy , they are gone , that is certain , so we cannot help them or be helped by them .
+1272_135031_000058_000000(nwords=31,cor=25,ins=0,del=2,sub=4) corr:80.65%,cer:19.35%
+ref:	but she laughed , and shaggy seemed rather hurt , but polichrome relieved his embarrassment by saying softly , one can be ugly in looks , but lovely in disposition .
+hyp:	betsy laughed and shaggy seemed rather hurt ; but polychrome relieved his embarrassment by saying softly : one can be ugly in looks , but lovely in disposition .
+1272_135031_000060_000000(nwords=5,cor=4,ins=0,del=0,sub=1) corr:80.00%,cer:20.00%
+ref:	true , agreed teleco .
+hyp:	true , agreed kaliko .
+1272_135031_000060_000001(nwords=41,cor=40,ins=0,del=0,sub=1) corr:97.56%,cer:2.44%
+ref:	so i think i will assemble the chief gnomes of my kingdom in this throne room and tell them that i am their new king . then i can ask them to assist us in searching for the secret passages .
+hyp:	so i think i will assemble the chief nomes of my kingdom in this throne room and tell them that i am their new king . then i can ask them to assist us in searching for the secret passages .
+1272_135031_000063_000000(nwords=18,cor=18,ins=1,del=0,sub=0) corr:100.00%,cer:5.56%
+ref:	of course not , said he , jumping up from the throne where he had seated himself .
+hyp:	of course not , said he , jumping up from the throne , where he had seated himself .
+1272_141231_000002_000000(nwords=6,cor=5,ins=0,del=1,sub=0) corr:83.33%,cer:16.67%
+ref:	for my mother and father .
+hyp:	for my mother and father
+1272_141231_000006_000000(nwords=2,cor=2,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	stephen crane
+hyp:	stephen crane
+1272_141231_000007_000003(nwords=14,cor=14,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	and when he attacked , it was always there to beat him aside .
+hyp:	and when he attacked , it was always there to beat him aside .
+1272_141231_000008_000001(nwords=9,cor=9,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	he reacted but his blade just met air .
+hyp:	he reacted but his blade just met air .
+1272_141231_000010_000000(nwords=13,cor=13,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	one minute , a voice said , and the time buzzer sounded .
+hyp:	one minute , a voice said , and the time buzzer sounded .
+1272_141231_000011_000000(nwords=9,cor=8,ins=0,del=0,sub=1) corr:88.89%,cer:11.11%
+ref:	brian had carefully conditioned the reflex in himself .
+hyp:	brion had carefully conditioned the reflex in himself .
+1272_141231_000011_000002(nwords=9,cor=7,ins=1,del=0,sub=2) corr:77.78%,cer:33.33%
+ref:	buzzes were triggered his muscles into complete relaxation .
+hyp:	the buzzers whirr triggered his muscles into complete relaxation .
+1272_141231_000011_000003(nwords=13,cor=12,ins=1,del=0,sub=1) corr:92.31%,cer:15.38%
+ref:	only his heart and lungs work on at a strong measured rate .
+hyp:	only his heart and lungs worked on at a strong , measured rate .
+1272_141231_000011_000004(nwords=42,cor=41,ins=1,del=0,sub=1) corr:97.62%,cer:4.76%
+ref:	his eyes closed and he was only distantly aware of his handlers catching him as he fell , carrying him to his bench while they massaged his limp body and cleansed the wound . all of his attention was turned inward .
+hyp:	his eyes closed and he was only distantly aware of his handlers catching him as he fell , carrying him to his bench . while they massaged his limp body and cleansed the wound , all of his attention was turned inward .
+1272_141231_000011_000006(nwords=28,cor=28,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	the nagging memory of the previous night loomed up then , and he turned it over and over in his mind , examining it from all sides .
+hyp:	the nagging memory of the previous night loomed up then , and he turned it over and over in his mind , examining it from all sides .
+1272_141231_000012_000001(nwords=20,cor=20,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	the contestants in the twenties needed undisturbed rest , therefore nights in the dormitories were as quiet as death .
+hyp:	the contestants in the twenties needed undisturbed rest , therefore nights in the dormitories were as quiet as death .
+1272_141231_000012_000003(nwords=23,cor=23,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	but as soon as the scores began to mount and eliminations cut into their ranks , there was complete silence after dark .
+hyp:	but as soon as the scores began to mount and eliminations cut into their ranks , there was complete silence after dark .
+1272_141231_000012_000004(nwords=27,cor=26,ins=1,del=0,sub=1) corr:96.30%,cer:7.41%
+ref:	particularly so on this last night , when only two of the little cubicles were occupied . the thousands others standing with dark , empty doors .
+hyp:	particularly so on this last night , when only two of the little cubicles were occupied , the thousands of others standing with dark , empty doors .
+1272_141231_000013_000001(nwords=17,cor=17,ins=1,del=0,sub=0) corr:100.00%,cer:5.88%
+ref:	words were whispered but clear two voices , just outside the thin metal of his door .
+hyp:	the words were whispered but clear two voices , just outside the thin metal of his door .
+1272_141231_000013_000002(nwords=5,cor=5,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	someone spoke his name .
+hyp:	someone spoke his name .
+1272_141231_000014_000001(nwords=4,cor=4,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	of course not .
+hyp:	of course not .
+1272_141231_000014_000002(nwords=17,cor=16,ins=0,del=1,sub=0) corr:94.12%,cer:5.88%
+ref:	whoever said you could was making a big mistake and there is going to be trouble .
+hyp:	whoever said you could was making a big mistake and there is going to be trouble
+1272_141231_000015_000000(nwords=5,cor=4,ins=1,del=0,sub=1) corr:80.00%,cer:40.00%
+ref:	dont talk an idiot .
+hyp:	dont talk like an idiot !
+1272_141231_000015_000001(nwords=13,cor=13,ins=1,del=0,sub=0) corr:100.00%,cer:7.69%
+ref:	the other voice snapped with a harsh urgency , clearly used to command
+hyp:	the other voice snapped with a harsh urgency , clearly used to command .
+1272_141231_000015_000003(nwords=6,cor=3,ins=0,del=2,sub=1) corr:50.00%,cer:50.00%
+ref:	now whos to stand aside ?
+hyp:	now stand aside !
+1272_141231_000018_000001(nwords=16,cor=16,ins=1,del=0,sub=0) corr:100.00%,cer:6.25%
+ref:	he must have drawn his gun because the intruder said quickly , put that away .
+hyp:	he must have drawn his gun , because the intruder said quickly , put that away .
+1272_141231_000018_000002(nwords=5,cor=4,ins=0,del=0,sub=1) corr:80.00%,cer:20.00%
+ref:	youre being a fool .
+hyp:	youre being a fool !
+1272_141231_000019_000000(nwords=10,cor=10,ins=1,del=0,sub=0) corr:100.00%,cer:10.00%
+ref:	out was the single snarled word of the response .
+hyp:	out ! was the single snarled word of the response .
+1272_141231_000019_000001(nwords=16,cor=14,ins=0,del=1,sub=1) corr:87.50%,cer:12.50%
+ref:	there was silence then , and , still wondering , brian was once more asleep .
+hyp:	there was silence then and , still wondering , brion was once more asleep .
+1272_141231_000020_000000(nwords=3,cor=3,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	ten seconds .
+hyp:	ten seconds .
+1272_141231_000021_000001(nwords=9,cor=9,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	he was unhappily conscious of his total exhaustion .
+hyp:	he was unhappily conscious of his total exhaustion .
+1272_141231_000021_000002(nwords=13,cor=13,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	the month of continuous mental and physical combat had taken its toll .
+hyp:	the month of continuous mental and physical combat had taken its toll .
+1272_141231_000021_000003(nwords=24,cor=24,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	it would be hard to stay on his feet , much less summon the strength and skill to fight and win a touch .
+hyp:	it would be hard to stay on his feet , much less summon the strength and skill to fight and win a touch .
+1272_141231_000022_000000(nwords=16,cor=16,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	how do we stand ? he asked the handler who was kneading his aching muscles .
+hyp:	how do we stand ? he asked the handler who was kneading his aching muscles .
+1272_141231_000023_000000(nwords=2,cor=2,ins=1,del=0,sub=0) corr:100.00%,cer:50.00%
+ref:	four four
+hyp:	four four .
+1272_141231_000023_000001(nwords=9,cor=8,ins=0,del=0,sub=1) corr:88.89%,cer:11.11%
+ref:	all you need is a touch to win .
+hyp:	all you need is a touch to win !
+1272_141231_000024_000000(nwords=29,cor=26,ins=1,del=0,sub=3) corr:89.66%,cer:13.79%
+ref:	thats all needs too . brian grunted , opening his eyes to look at the weary length of the man at the other end of the long mat .
+hyp:	thats all he needs too , brion grunted , opening his eyes to look at the wiry length of the man at the other end of the long mat .
+1272_141231_000024_000002(nwords=15,cor=15,ins=1,del=0,sub=0) corr:100.00%,cer:6.67%
+ref:	a red haired mountain of a man with an apparently inexhaustible store of energy .
+hyp:	a red haired mountain of a man , with an apparently inexhaustible store of energy .
+1272_141231_000024_000003(nwords=8,cor=8,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	that was really all that counted now .
+hyp:	that was really all that counted now .
+1272_141231_000024_000005(nwords=10,cor=9,ins=1,del=0,sub=1) corr:90.00%,cer:20.00%
+ref:	just thrust and parry in victory to the stronger .
+hyp:	just thrust and parry , and victory to the stronger .
+1272_141231_000026_000000(nwords=25,cor=22,ins=0,del=0,sub=3) corr:88.00%,cer:12.00%
+ref:	every man who entered the twentys had his own training tricks , brian had a few individual ones that had helped him so far .
+hyp:	every man who entered the twenties had his own training tricks . brion had a few individual ones that had helped him so far .
+1272_141231_000026_000003(nwords=19,cor=17,ins=0,del=0,sub=2) corr:89.47%,cer:10.53%
+ref:	he had a standing order with off planet agents for arcade chess books . the older the better .
+hyp:	he had a standing order with off planet agents for archaic chess books , the older the better .
+1272_141231_000026_000005(nwords=4,cor=4,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	this was allowed .
+hyp:	this was allowed .
+1272_141231_000026_000007(nwords=8,cor=6,ins=0,del=1,sub=1) corr:75.00%,cer:25.00%
+ref:	so , hypnosis was an accepted tool .
+hyp:	self hypnosis was an accepted tool .
+1272_141231_000027_000001(nwords=16,cor=16,ins=1,del=0,sub=0) corr:100.00%,cer:6.25%
+ref:	common as the phenomenon seemed to be in the textbooks it proved impossible to duplicate .
+hyp:	common as the phenomenon seemed to be in the textbooks , it proved impossible to duplicate .
+1272_141231_000027_000003(nwords=17,cor=15,ins=0,del=1,sub=1) corr:88.24%,cer:11.76%
+ref:	berserkers and gerumenttados continue to fight and kill , though carved by scores of mortal wounds .
+hyp:	berserkers and juramentados continue to fight and kill though carved by scores of mortal wounds .
+1272_141231_000027_000005(nwords=29,cor=29,ins=0,del=0,sub=0) corr:100.00%,cer:0.00%
+ref:	death seemed an inescapable part of this kind of strength . but there was another type that could easily be brought about in any deep trance hypnotic rigidity .
+hyp:	death seemed an inescapable part of this kind of strength . but there was another type that could easily be brought about in any deep trance hypnotic rigidity .
+1272_141231_000027_000007(nwords=6,cor=5,ins=1,del=0,sub=1) corr:83.33%,cer:33.33%
+ref:	this is physically impossible unconscious .
+hyp:	this is physically impossible when conscious .
+1272_141231_000027_000008(nwords=37,cor=35,ins=6,del=1,sub=1) corr:94.59%,cer:21.62%
+ref:	working with this clue , brian had developed a self hypnotic technique that allowed him to tap this reservoir of unknown strength , the source of second wind , the survival strength that made the difference between
+hyp:	working with this as a clue , brion had developed a self hypnotic technique that allowed him to tap this reservoir of unknown strength the source of second wind , the survival strength that made the difference between life and death .
+1272_141231_000028_000002(nwords=24,cor=22,ins=0,del=2,sub=0) corr:91.67%,cer:8.33%
+ref:	others had died before during the twenties , and death , during the last round , was in some ways easier than defeat .
+hyp:	others had died before during the twenties , and death during the last round was in some ways easier than defeat .
+1272_141231_000029_000002(nwords=16,cor=15,ins=2,del=0,sub=1) corr:93.75%,cer:18.75%
+ref:	he could feel with acute sensitivity here and see clearly when he opened his eyes .
+hyp:	he could feel with acute sensitivity , hear , and see clearly when he opened his eyes .
+1272_141231_000030_000000(nwords=20,cor=18,ins=0,del=0,sub=2) corr:90.00%,cer:10.00%
+ref:	with each passing second to power drew it the basic reserves of life , draining it from his body .
+hyp:	with each passing second the power drew at the basic reserves of life , draining it from his body .
+1272_141231_000031_000000(nwords=19,cor=12,ins=1,del=2,sub=5) corr:63.16%,cer:42.11%
+ref:	on the buzz of sound , rudy pulled his foil from his second startled grasp and ran forward .
+hyp:	when the buzzer sounded he pulled his foil from his seconds startled grasp , and ran forward .
+1272_141231_000031_000002(nwords=21,cor=20,ins=1,del=0,sub=1) corr:95.24%,cer:9.52%
+ref:	the force of his rush was so great that the guards on their weapons locked and their bodies crushed together .
+hyp:	the force of his rush was so great that the guards on their weapons locked , and their bodies crashed together .
+1272_141231_000032_000001(nwords=20,cor=19,ins=0,del=0,sub=1) corr:95.00%,cer:5.00%
+ref:	he didnt attempt to attack , just let brian wear himself out against the firm shield of his defense .
+hyp:	he didnt attempt to attack , just let brion wear himself out against the firm shield of his defense .
+1272_141231_000033_000000(nwords=18,cor=17,ins=0,del=0,sub=1) corr:94.44%,cer:5.56%
+ref:	brian saw something close to panic on his opponents face when the man finally recognized his error .
+hyp:	brion saw something close to panic on his opponents face when the man finally recognized his error .
+1272_141231_000033_000001(nwords=4,cor=3,ins=0,del=0,sub=1) corr:75.00%,cer:25.00%
+ref:	brian wasnt tiring .
+hyp:	brion wasnt tiring .
+
+%WER 16.56 [ 265 / 1600, 123 ins, 34 del, 108 sub ]
+%SER 71.0 [ 71 / 100 ]
+Scored 100 sentences, 0 not present in hyp.

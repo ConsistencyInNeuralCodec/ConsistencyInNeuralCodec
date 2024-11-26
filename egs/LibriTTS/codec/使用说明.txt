@@ -1,0 +1,19 @@
+Docker 112的那个
+Conda 环境 
+source /cpfs01/shared/public/renjun.admin/anaconda3/bin/activate
+source activate funasr
+
+训练好的模型 ckpt 
+oss://ofasys-wlcb/renjun/uniaudio/checkpoints/
+
+使用方法
+cd egs/LibriTTS
+bash encoding_decoding_debug.sh
+
+注意: 在 encoding_decoding_debug.sh 里面，有几个需要你修改
+这个脚本就是把你的 wav_scp 的所有wav转成codec的一个脚本， wav_scp的样例我传到 oss://ofasys-wlcb/renjun/uniaudio/test.scp 了，然后输出的结果会存在 out_dir里面，
+wav_scp=/mnt/workspace/renjun.admin/jupyter_trash/test.scp
+
+model_dir 你就把oss的ckpt下载下来，改一下对应的路径即可
+model_dir=/home/admin_data/renjun.admin/checkpoints/funcodec/exp/encodec_16k_n32_600k_step_rawlibriMLS2k_cmw_1_raw
+

@@ -1,0 +1,2 @@
+pip install https://isv-data.oss-cn-hangzhou.aliyuncs.com/ics/MaaS/TTS/requirements/ttsfrd-0.2.3-cp38-cp38-linux_x86_64.whl
+pip install torch==1.12.1+cu113 torchaudio==0.12.1+cu113 -f https://download.pytorch.org/whl/torch_stable.html

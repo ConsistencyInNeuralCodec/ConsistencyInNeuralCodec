@@ -1,0 +1,7 @@
+egs/LibriTTS/tts/run.sh 需要以下三个资源依赖, 已经通过teamfile上传上去了，给徐进加了读写权限，可通过下面链接访问到对应文件并下载
+ttsfrd_rsc_zip_file: https://file.alibaba-inc.com/smart-link/6814902f-1647-43c0-9fd7-f3a4774d62cc/
+codec_model_dir: https://file.alibaba-inc.com/smart-link/e9570ae3-6d49-4fbd-a0e7-1140b30ef761/
+hubert_km_path: https://file.alibaba-inc.com/smart-link/0c68a923-4c86-407e-8dd1-10193b265dd0/
+
+hukai
+2023.12.22

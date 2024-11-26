@@ -1,0 +1,2 @@
+--editable ./ -i  http://mirrors.aliyun.com/pypi/simple --trusted-host mirrors.aliyun.com
+https://isv-data.oss-cn-hangzhou.aliyuncs.com/ics/MaaS/TTS/requirements/ttsfrd-0.2.3-cp38-cp38-linux_x86_64.whl

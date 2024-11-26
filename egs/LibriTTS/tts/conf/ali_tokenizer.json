@@ -1,0 +1,13 @@
+{
+
+    "linguistic_unit": {
+      "cleaners": "english_cleaners",
+      "lfeat_type_list": "sy,tone,syllable_flag,word_segment",
+      "sy": "dict/sy_dict.txt",
+      "tone": "dict/tone_dict.txt",
+      "syllable_flag": "dict/syllable_flag_dict.txt",
+      "word_segment": "dict/word_segment_dict.txt"
+    }
+}
+
+

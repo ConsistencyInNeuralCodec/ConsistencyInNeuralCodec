@@ -1,0 +1,9 @@
+{
+    "encoder_layer": 4,
+    "encoder_hidden": 256,
+    "encoder_head": 4,
+    "conv_filter_size": 1024,
+    "conv_kernel_size": 5,
+    "encoder_dropout": 0.1,
+    "use_cln": false,
+}

@@ -1,0 +1,5 @@
+第一步: 跑一下codec [原始音频已经经过normalize]
+bash encoding_decoding_c.sh
+
+第二步:
+python check_consistency/check_consist.py
