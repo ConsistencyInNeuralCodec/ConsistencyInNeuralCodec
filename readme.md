@@ -1,6 +1,6 @@
 # Official Implementation
 
-This is the official pytorch implementation of *Analyzing and Mitigating Inconsistency in Discrete Audio Tokens for Neural Codec Language Models*.
+This is the official pytorch implementation of *Analyzing and Mitigating Inconsistency in Discrete Speech Tokens for Neural Codec Language Models*.
 
 ## Environment
 
